@@ -20,4 +20,4 @@ Microsoft Azure Media and Entertainment technologies provide scalable, cloud-bas
 
 ## Contents
 
-## Technologies 
+## Technologies
