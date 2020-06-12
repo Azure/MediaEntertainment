@@ -1,10 +1,10 @@
 ---
-page_type: sample
+page_type: Landing Page
 languages:
-- csharp
+- N/A
 products:
-- dotnet
-description: "Add 150 character max description"
+- N/A
+description: "Introduction to Microsoft Azure Media and Entertainment"
 urlFragment: "update-this-to-unique-url-stub"
 ---
 
