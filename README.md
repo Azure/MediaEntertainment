@@ -18,7 +18,7 @@ Yet modern audiences expect more spectacular and realistic visual effects with e
 
 With post-production processing accounting for up to 30% of a film's eventual budget, studios and production companies are increasingly turning away from on-premises computing power. Racks of servers in render farms represent a significant capital investment that smaller, independent production companies cannot afford;  even larger studios may not have the throughput to utilize those resources fully.
 
-Microsoft Azure Media and Entertainment (M&E) technologies provide scalable, cloud-based post-production processing facilities that enable you to access the resources you need to deliver your project on time and on budget. The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into  post-production processing.
+Microsoft Azure Media and Entertainment (M&E) technologies provide scalable, cloud-based post-production processing (PPP) facilities that enable you to access the resources you need to deliver your project on time and on budget. The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into  post-production processing.
 
 ## Audience
 
@@ -30,7 +30,7 @@ This content addresses multiple audiences, both within and outside the media pro
 * Visual Effects creators
 * Independent filmmakers
 
-To ensure that these industry-specific roles can implement M&E technologies on Microsoft Azure, this content also addresses the following technical roles:
+To ensure that these industry-specific roles can implement M&E technologies on Microsoft Azure, the linked content also addresses the following technical roles:
 
 * Microsoft field personnel responsible for implementing Azure M&E technologies
 * Partners working with M&E groups to deliver productions
@@ -38,27 +38,26 @@ To ensure that these industry-specific roles can implement M&E technologies on M
 
 ## Contents
 
-For each Media and Entertainment technology, we address five main questions:
+For each Media and Entertainment technology, each linked repository addresses five main questions:
 
-* What is this technology?
+* What is the technology?
 * Why do you need it?
 * When would you use it in a post-production workflow?
 * Where is this service available worldwide?
 * How do you implement it?
 
-By taking this approach, we aim to address both those within the M&E industry and technical personnel responsible for incorporating each technology.
+By taking this approach, we aim to inform both those within the M&E industry and technical personnel responsible for incorporating each technology.
 
 ## Technologies
 
 Microsoft Azure M&E technologies include the following services:
 
-* [Avere Terraform](https://github.com/Azure/Avere/tree/master/src/terraform)
-* [Azure Rendering GitOps](https://github.com/Azure/Avere/tree/master/src/tutorials/GitOps)
-* [Azure Artist Anywhere](https://github.com/Azure/Avere/tree/master/src/tutorials/ArtistAnywhere)
-* [Avid POD deployment ( BYOL)](https://github.com/Azure/VideoEditorialInTheCloud/tree/master/EITC-BYOL)
-* [Video to Gif Function](https://github.com/krishnaji/durable-function-video-to-gif)
+* [Avere Terraform](https://github.com/Azure/Avere/tree/master/src/terraform) - automating the creation of high-performance computing nodes in Azure to scale up PPP environments rapidly.
+* [Azure Rendering GitOps](https://github.com/Azure/Avere/tree/master/src/tutorials/GitOps) - description TBC.
+* [Azure Artist Anywhere](https://github.com/Azure/Avere/tree/master/src/tutorials/ArtistAnywhere) - deploy a complete media rendering solution in Microsoft Azure.
+* [Avid deployment](https://github.com/Azure/VideoEditorialInTheCloud/tree/master/EITC-BYOL) - implement Nexis or Media Composer in Azure using your own licenses.
+* [Video to Gif Function](https://github.com/krishnaji/durable-function-video-to-gif) - create gifs direct from video uploads.
 
 ## Contacts
 
 To contact the Microsoft Azure M&E team, ...
-
