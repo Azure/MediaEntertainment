@@ -1,64 +1,67 @@
 ---
-page_type: sample
+page_type: Landing Page
 languages:
-- csharp
+- N/A
 products:
-- dotnet
-description: "Add 150 character max description"
+- N/A
+description: "Introduction to Microsoft Azure Media and Entertainment"
 urlFragment: "update-this-to-unique-url-stub"
 ---
 
-# Official Microsoft Sample
+# Microsoft Azure Media and Entertainment
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
+The demand for visual entertainment such as feature films and mini-series on big or small screen continues to grow, with modern audiences expecting more spectacular and realistic visual effects with each release. In consequence, visual effects teams need more computing power with every passing year. Simultaneously, editors demand greater control over textures and color grading, while producers must minimize costs, while meeting demanding release timescales.
 
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
+With post-production processing accounting for up to 30% of a film's eventual budget, studios and production companies are increasingly turning away from on-premises computing power. Racks of servers in render farms represent a significant capital investment that smaller, independent production companies cannot afford;  even larger studios may not have the throughput to utilize those resources fully.
 
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
+Microsoft Azure Media and Entertainment (M&E) technologies provide scalable, cloud-based post-production processing (PPP) facilities that enable you to access the resources you need to deliver your M&E project on time and within budget. The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into PPP.
 
-Give a short description for your sample here. What does it do and why is it important?
+## Aim
+
+The aim of this repository is to provide a definitive content resource that facilitates the implementation of post-production processing technologies, workloads, and services on Microsoft Azure.
+
+This resource provides customers, partners, and Microsoft architects with tools, resources, and scripts to deploy common Media and Entertainment solutions into a Microsoft Azure environment. These deployments can be either new (greenfield) or part of a pre-existing (brownfield) implementations, whether as an initial Proof of Concept project or as the starting point of a full production solution.
+
+This repository is the main hub for M&E content that Microsoft and our partners publish. We will keep this material current and add new assets regularly to support common M&E workflows and solutions. Microsoft and our partners [welcome your feedback](gitme@microsoft.com) for any scenarios that we have not covered.
+
+## Audience
+
+This content addresses multiple audiences, both within and outside the media production industry. These audiences include:
+
+* Studios
+* Production companies
+* Producers, editors, and directors
+* Visual Effects creators
+* Independent filmmakers
+
+To ensure that these industry-specific roles can implement M&E technologies on Microsoft Azure, the content also addresses the following technical roles:
+
+* Microsoft field personnel responsible for implementing Azure M&E technologies
+* Partners working with M&E groups to deliver productions
+* Software integrators developing industry-specific solutions on Microsoft Azure
 
 ## Contents
 
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
+For each Media and Entertainment technology, each linked repository addresses five main questions:
 
-| File/folder       | Description                                |
-|-------------------|--------------------------------------------|
-| `src`             | Sample source code.                        |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `CHANGELOG.md`    | List of changes to the sample.             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
+* What is the technology?
+* Why do you need it?
+* When would you use it in a post-production workflow?
+* Where is this service available worldwide?
+* How do you implement it?
 
-## Prerequisites
+By taking this approach, we aim to inform both those within the M&E industry and technical personnel responsible for incorporating each technology.
 
-Outline the required components and tools that a user might need to have on their machine in order to run the sample. This can be anything from frameworks, SDKs, OS versions or IDE releases.
+## Technology Repositories
 
-## Setup
+Microsoft Azure M&E technologies include the following services:
 
-Explain how to prepare the sample once the user clones or downloads the repository. The section should outline every step necessary to install dependencies and set up any settings (for example, API keys and output folders).
+* [Avere Terraform](https://github.com/Azure/Avere/tree/master/src/terraform) - automating the creation of high-performance computing nodes in Azure to scale up PPP environments rapidly.
+* [Azure Rendering GitOps](https://github.com/Azure/Avere/tree/master/src/tutorials/GitOps) - description TBC.
+* [Azure Artist Anywhere](https://github.com/Azure/Avere/tree/master/src/tutorials/ArtistAnywhere) - deploy a complete media rendering solution in Microsoft Azure.
+* [Avid deployment](https://github.com/Azure/VideoEditorialInTheCloud/tree/master/EITC-BYOL) - implement Nexis or Media Composer in Azure using your own licenses.
+* [Video to Gif Function](https://github.com/krishnaji/durable-function-video-to-gif) - create gifs direct from video uploads.
 
-## Running the sample
+## Contact Us
 
-Outline step-by-step instructions to execute the sample and see its output. Include steps for executing the sample from the IDE, starting specific services in the Azure portal or anything related to the overall launch of the code.
-
-## Key concepts
-
-Provide users with more context on the tools and services used in the sample. Explain some of the code that is being used and how services interact with each other.
-
-## Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+We would love to hear from you. Whether the content is not working correctly, you have feedback to improve this material, or recommendations for new scenarios, please [reach out to us](gitme@microsoft.com).
