@@ -1,13 +1,3 @@
----
-page_type: Landing Page
-languages:
-- N/A
-products:
-- N/A
-description: "Introduction to Microsoft Azure Media and Entertainment"
-urlFragment: "update-this-to-unique-url-stub"
----
-
 # Microsoft Azure Media and Entertainment
 
 The demand for visual entertainment such as feature films and mini-series on big or small screen continues to grow, with modern audiences expecting more spectacular and realistic visual effects with each release. In consequence, visual effects teams need more computing power with every passing year. Simultaneously, editors demand greater control over textures and color grading, while producers must minimize costs, while meeting demanding release timescales.
