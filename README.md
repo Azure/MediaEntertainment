@@ -14,7 +14,7 @@ The demand for visual entertainment such as feature films and mini-series on big
 
 With post-production processing accounting for up to 30% of a film's eventual budget, studios and production companies are increasingly turning away from on-premises computing power. Racks of servers in render farms represent a significant capital investment that smaller, independent production companies cannot afford;  even larger studios may not have the throughput to utilize those resources fully.
 
-Microsoft Azure Media and Entertainment (M&E) technologies provide scalable, cloud-based post-production processing (PPP) facilities that enable you to access the resources you need to deliver your M&E project on time and within budget. The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into PPP.
+[Microsoft Azure Media and Entertainment](https://www.microsoft.com/industry/media-entertainment) (M&E) technologies provide scalable, cloud-based post-production processing (PPP) facilities that enable you to access the resources you need to deliver your M&E project on time and within budget. The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into PPP.
 
 ## Aim
 
