@@ -30,27 +30,27 @@ This repository is the main hub for M&E content that Microsoft and our partners 
 
 This content addresses multiple audiences, both within and outside the media production industry. These audiences include:
 
-* Studios
-* Production companies
-* Producers, editors, and directors
-* Visual Effects creators
-* Independent filmmakers
+- Studios
+- Production companies
+- Producers, editors, and directors
+- Visual Effects creators
+- Independent filmmakers
 
 To ensure that these industry-specific roles can implement M&E technologies on Microsoft Azure, the content also addresses the following technical roles:
 
-* Microsoft field personnel responsible for implementing Azure M&E technologies
-* Partners working with M&E groups to deliver productions
-* Software integrators developing industry-specific solutions on Microsoft Azure
+- Microsoft field personnel responsible for implementing Azure M&E technologies
+- Partners working with M&E groups to deliver productions
+- Software integrators developing industry-specific solutions on Microsoft Azure
 
 ## Contents
 
 For each Media and Entertainment technology, each linked repository addresses five main questions:
 
-* What is the technology?
-* Why do you need it?
-* When would you use it in a post-production workflow?
-* Where is this service available worldwide?
-* How do you implement it?
+- What is the technology?
+- Why do you need it?
+- When would you use it in a post-production workflow?
+- Where is this service available worldwide?
+- How do you implement it?
 
 By taking this approach, we aim to inform both those within the M&E industry and technical personnel responsible for incorporating each technology.
 
@@ -58,11 +58,11 @@ By taking this approach, we aim to inform both those within the M&E industry and
 
 Microsoft Azure M&E technologies include the following services:
 
-* [Avere Terraform](https://github.com/Azure/Avere/tree/master/src/terraform) - automating the creation of high-performance computing nodes in Azure to scale up PPP environments rapidly.
-* [Azure Rendering GitOps](https://github.com/Azure/Avere/tree/master/src/tutorials/GitOps) - description TBC.
-* [Azure Artist Anywhere](https://github.com/Azure/Avere/tree/master/src/tutorials/ArtistAnywhere) - deploy a complete media rendering solution in Microsoft Azure.
-* [Avid deployment](https://github.com/Azure/VideoEditorialInTheCloud/tree/master/EITC-BYOL) - implement Nexis or Media Composer in Azure using your own licenses.
-* [Video to Gif Function](https://github.com/krishnaji/durable-function-video-to-gif) - create gifs direct from video uploads.
+- [Avere Terraform](https://github.com/Azure/Avere/tree/master/src/terraform) - automating the creation of high-performance computing nodes in Azure to scale up PPP environments rapidly.
+- [Azure Rendering GitOps](https://github.com/Azure/Avere/tree/master/src/tutorials/GitOps) - description TBC.
+- [Azure Artist Anywhere](https://github.com/Azure/Avere/tree/master/src/tutorials/ArtistAnywhere) - deploy a complete media rendering solution in Microsoft Azure.
+- [Avid deployment](https://github.com/Azure/VideoEditorialInTheCloud/tree/master/EITC-BYOL) - implement Nexis or Media Composer in Azure using your own licenses.
+- [Video to Gif Function](https://github.com/krishnaji/durable-function-video-to-gif) - create gifs direct from video uploads.
 
 ## Contact Us
 
