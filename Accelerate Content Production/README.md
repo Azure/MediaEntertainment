@@ -1,25 +1,21 @@
 ---
-page_type: sample
+page_type: topic
 languages:
-- document
+- N/A
 products:
 - document
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
+description: "Accelerate content production with Microsoft Azure Media and Entertainment technologies"
+urlFragment: "https://github.com/Azure/MediaEntertainment/tree/master/Accelerate%20Content%20Production"
 ---
 
 # Accelerate Content Production
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
-
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
-
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
-
-Give a short description for your sample here. What does it do and why is it important?
+Microsoft Azure enables studios to enhance and streamline production workflows by using intelligent processes and automation. Through access to industry-leading tools for editing, rendering, visual effects, storage, video production, and management based on an intelligent and secure platform, you can scale up your media production, reduce your delivery times and minimize costs.
 
 ## Contents
 
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
+- Microsoft Azure Video Indexer
+- Microsoft Azure Storage
+- Avere vFXT for Azure
+- Avid MediaCentral
+- Teradici PCoIP
