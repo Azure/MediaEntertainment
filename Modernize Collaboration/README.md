@@ -1,25 +1,23 @@
 ---
-page_type: sample
+page_type: topic
 languages:
 - document
 products:
 - document
-description: "Add 150 character max description"
+description: "Modernize collaboration with Microsoft Azure Media and Entertainment technologies"
 urlFragment: "update-this-to-unique-url-stub"
 ---
 
 # Modernize Collaboration
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
-
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
-
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
-
-Give a short description for your sample here. What does it do and why is it important?
+Microsoft Azure Media and Entertainment (M&E) technologies implement the benefits of the cloud to create collaboration tools that maximize creativity and productivity throughout your organization. Cloud-based architecture enables mobile and geographically-dispersed teams to collaborate on projects from anywhere in the world - regardless of their choice of device. In addition, your employees can obtain insights on their progress, improving their decision-making and enhancing interactions with your customers.
 
 ## Contents
 
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
+The following Microsoft Azure M&E technologies enable you to modernize collaboration:
+
+- [Avid Editorial](/Avid%20Editorial)
+- Microsoft 365
+- Microsoft Teams
+- Microsoft Azure Sentinel
+- Adobe Creative Cloud

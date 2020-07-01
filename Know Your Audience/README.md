@@ -1,25 +1,22 @@
 ---
-page_type: sample
+page_type: topic
 languages:
 - document
 products:
 - document
-description: "Add 150 character max description"
+description: "Know your audience better with Microsoft Azure Media and Entertainment technologies"
 urlFragment: "update-this-to-unique-url-stub"
 ---
 
 # Know Your Audience
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
-
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
-
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
-
-Give a short description for your sample here. What does it do and why is it important?
+With Microsoft Azure Media and Entertainment (M&E) technologies, you can generate comprehensive, data-driven insights on your audience, enabling you to understand and appreciate your consumers' preferences. Through simplified access to audience data, you can better appreciate what your viewers want and identify profiles through interactions, consumption patterns, social sentiment, and channel loyalty. Importantly, you can use this data to help grow and develop your advertising revenue, improving campaign performance, enhancing feedback channels, and maximizing the return on your marketing spend.
 
 ## Contents
 
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
+The following Microsoft Azure M&E technologies enable you to know and understand your audience better:
+
+- Microsoft Dynamics 365 Customer Insights
+- Microsoft Power BI
+- Adobe Experience Cloud
+- Affinio

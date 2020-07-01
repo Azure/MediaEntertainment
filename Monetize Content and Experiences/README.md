@@ -1,25 +1,22 @@
 ---
-page_type: sample
+page_type: topic
 languages:
 - document
 products:
 - document
-description: "Add 150 character max description"
+description: "Monetize content and experiences with Microsoft Azure Media and Entertainment technologies"
 urlFragment: "update-this-to-unique-url-stub"
 ---
 
 # Monetize Content and Experiences
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
-
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
-
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
-
-Give a short description for your sample here. What does it do and why is it important?
+A key benefit from Microsoft Azure Media and Entertainment (M&E) is the ability to monetize your content and provide personalized experiences for your audience. You can also create unique experiences for viewers that deepen their engagement with your content, while increasing monetization of your material. Azure M&E delivers greater audience satisfaction and increased loyalty through consistent and differentiating experiences, using artificial intelligence and real-time insights to personalize audience messages, improve responsiveness and make relevant suggestions for alternative content.
 
 ## Contents
 
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
+The following Microsoft Azure M&E technologies enable you to monetize content and experiences:
+
+- Microsoft Dynamics 365 Sales
+- Microsoft Dynamics 365 Marketing
+- Microsoft Dynamics 365 Customer Insights
+- Adobe Experience Cloud
