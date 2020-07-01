@@ -20,6 +20,12 @@ With post-production processing accounting for up to 30% of a film's eventual bu
 
 The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into their PPP delivery stream.
 
+- [Accelerate content production](/Accelerate%20Content%20Production)
+- Modernize collaboration
+- Optimize content delivery
+- Know your audience
+- Monetize content and experiences
+
 ## Aim
 
 The aim of this repository is to provide a definitive content resource that facilitates the implementation of post-production processing technologies, workloads, and services on Microsoft Azure.
