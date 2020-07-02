@@ -20,12 +20,6 @@ With post-production processing accounting for up to 30% of a film's eventual bu
 
 The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into their PPP delivery stream.
 
-- [Accelerate content production](/Accelerate%20Content%20Production)
-- [Know your audience](/Know%20Your%20Audience)
-- [Modernize collaboration](/Modernize%20Collaboration)
-- [Monetize content and experiences](/Monetize%20Content%20and%20Experiences)
-- [Optimize content delivery](/Optimize%20Content%20Delivery)
-
 ## Aim
 
 The aim of this repository is to provide a definitive content resource that facilitates the implementation of post-production processing technologies, workloads, and services on Microsoft Azure.
@@ -50,6 +44,19 @@ To ensure that these industry-specific roles can implement M&E technologies on M
 - Partners working with M&E groups to deliver productions
 - Software integrators developing industry-specific solutions on Microsoft Azure
 
+## Process
+
+Microsoft Azure M&E technologies provide support for the entire PPP process:
+
+- [Foundation](/Foundation)
+- [Ingest](/Ingest)
+- [Create](/Create)
+- [Manage](/Manage)
+- [Distribute](/Distribute)
+- [Monetize](/Monetize)
+
+Alternatively, you can review the entire range of [M&E Solutions](/Solutions).
+
 ## Contents
 
 For each Media and Entertainment technology, each linked repository addresses five main questions:
@@ -61,16 +68,6 @@ For each Media and Entertainment technology, each linked repository addresses fi
 - How do you implement it?
 
 By taking this approach, we aim to inform both those within the M&E industry and technical personnel responsible for incorporating each technology.
-
-## Technology Repositories
-
-Microsoft Azure M&E technologies include the following services:
-
-- [Avere Terraform](https://github.com/Azure/Avere/tree/master/src/terraform) - automating the creation of high-performance computing nodes in Azure to scale up PPP environments rapidly.
-- [Azure Rendering GitOps](https://github.com/Azure/Avere/tree/master/src/tutorials/GitOps) - description TBC.
-- [Azure Artist Anywhere](https://github.com/Azure/Avere/tree/master/src/tutorials/ArtistAnywhere) - deploy a complete media rendering solution in Microsoft Azure.
-- [Avid deployment](https://github.com/Azure/VideoEditorialInTheCloud/tree/master/EITC-BYOL) - implement Nexis or Media Composer in Azure using your own licenses.
-- [Video to Gif Function](https://github.com/krishnaji/durable-function-video-to-gif) - create gifs direct from video uploads.
 
 ## Contact Us
 
