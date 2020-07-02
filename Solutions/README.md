@@ -4,7 +4,7 @@ Microsoft Azure M&E provides the following cloud-based solutions to support your
 
 - [Avere Terraform](Avere%20Terraform)
 - [Avid Deployment](Avid)
-- [Azure Artist Anywhere](Azure%20/Artist%20Anywhere)
+- [Azure Artist Anywhere](Azure%20Artist%20Anywhere)
 - [Azure Rendering GitOps](Azure%20Rendering)
 - NDI
 - Power Platform Driven Ingestion
