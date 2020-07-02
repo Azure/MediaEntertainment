@@ -1,4 +1,4 @@
-# Azure Rendering
+# Azure Rendering GitOps
 
 Description TBC.
 
