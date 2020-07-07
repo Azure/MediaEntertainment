@@ -22,7 +22,7 @@ The aim of this repository is to provide a definitive content resource that faci
 
 This resource provides customers, partners, and Microsoft architects with tools, resources, and scripts to deploy common Media and Entertainment solutions into a Microsoft Azure environment. These deployments can be either new (greenfield) or part of a pre-existing (brownfield) implementations, whether as an initial Proof of Concept project or as the starting point of a full production solution.
 
-This repository is the main hub for M&E content that Microsoft and our partners publish. We will keep this material current and add new assets regularly to support common M&E workflows and solutions. Microsoft and our partners [welcome your feedback](gitme@microsoft.com) for any scenarios that we have not covered.
+This repository is the main hub for M&E content that Microsoft and our partners publish. We will keep this material current and add new assets regularly to support common M&E workflows and solutions. Microsoft and our partners [welcome your feedback](mailto:gitme@microsoft.com) for any scenarios that we have not covered.
 
 ## Audience
 
