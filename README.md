@@ -1,13 +1,3 @@
----
-page_type: Landing Page
-languages:
-- N/A
-products:
-- Microsoft Azure
-description: "Introduction to Microsoft Azure Media and Entertainment"
-urlFragment: "update-this-to-unique-url-stub"
----
-
 # Microsoft Azure Media and Entertainment
 
 The demand for visual entertainment such as feature films and mini-series on big or small screen continues to grow, with modern audiences expecting more spectacular and realistic visual effects with each release. In consequence, visual effects teams need more computing power with every passing year. Simultaneously, editors demand greater control over textures and color grading, while producers must minimize costs, while meeting demanding release timescales.
@@ -16,7 +6,7 @@ With post-production processing accounting for up to 30% of a film's eventual bu
 
 [Microsoft Azure Media and Entertainment](https://www.microsoft.com/industry/media-entertainment) (M&E) technologies provide scalable, cloud-based post-production processing (PPP) facilities that enable you to access the resources you need to deliver your M&E project on time and within budget.
 
-![Microsoft Media and Entertainment](Assets/Media-Banner.png?raw=true)
+![Accelerate Content Production](images/Accelerate.png.png?raw=true)![Know Your Audience](images/Audience.png?raw=true)![Modernize Collaboration](images/Modernize.png?raw=true)![Monetize Content and Experiences](images/Monetize.png?raw=true)![Optimize Content Delivery](images/Optimize.png?raw=true)
 
 The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into their PPP delivery stream.
 
