@@ -7,11 +7,11 @@ With post-production processing accounting for up to 30% of a film's eventual bu
 [Microsoft Azure Media and Entertainment](https://www.microsoft.com/industry/media-entertainment) (M&E) technologies provide scalable, cloud-based post-production processing (PPP) facilities that enable you to access the resources you need to deliver your M&E project on time and within budget.
 
 <p align="center">
-  <img src="images/Accelerate.png" width="200" height="200">
-  <img src="images/Audience.png" width="200" height="200">
-  <img src="images/Modernize.png" width="200" height="200">
-  <img src="images/Monetize.png" width="200" height="200">
-  <img src="images/Optimize.png" width="200" height="200">
+  <img src="images/Accelerate.png" width="180" height="160">
+  <img src="images/Audience.png" width="180" height="160">
+  <img src="images/Modernize.png" width="180" height="160">
+  <img src="images/Monetize.png" width="180" height="160">
+  <img src="images/Optimize.png" width="180" height="160">
 </p>
 
 The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into their PPP delivery stream.
