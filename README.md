@@ -67,4 +67,4 @@ By taking this approach, we aim to inform both those within the M&E industry and
 
 ## Contact Us
 
-We would love to hear from you. Whether the content is not working correctly, you have feedback to improve this material, or recommendations for new scenarios, please [reach out to us](gitme@microsoft.com).
+We would love to hear from you. Whether the content is not working correctly, you have feedback to improve this material, or recommendations for new scenarios, please [reach out to us](mailto:gitme@microsoft.com).
