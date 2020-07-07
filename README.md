@@ -14,9 +14,11 @@ The demand for visual entertainment such as feature films and mini-series on big
 
 With post-production processing accounting for up to 30% of a film's eventual budget, studios and production companies are increasingly turning away from on-premises computing power. Racks of servers in render farms represent a significant capital investment that smaller, independent production companies cannot afford;  even larger studios may not have the throughput to utilize those resources fully.
 
-[Microsoft Azure Media and Entertainment](https://www.microsoft.com/industry/media-entertainment) (M&E) technologies provide scalable, cloud-based post-production processing (PPP) facilities that enable you to access the resources you need to deliver your M&E project on time and within budget. The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into PPP.
+[Microsoft Azure Media and Entertainment](https://www.microsoft.com/industry/media-entertainment) (M&E) technologies provide scalable, cloud-based post-production processing (PPP) facilities that enable you to access the resources you need to deliver your M&E project on time and within budget.
 
 ![Microsoft Media and Entertainment](Assets/Media-Banner.png?raw=true)
+
+The M&E team created this repository with links to resources, code and implementation guidance that enables everyone involved in bringing a production to the screen to incorporate Microsoft Azure into their PPP delivery stream.
 
 ## Aim
 
@@ -42,6 +44,19 @@ To ensure that these industry-specific roles can implement M&E technologies on M
 - Partners working with M&E groups to deliver productions
 - Software integrators developing industry-specific solutions on Microsoft Azure
 
+## Process
+
+Microsoft Azure M&E technologies provide support for the entire PPP process:
+
+- [Foundation](/Foundation)
+- [Ingest](/Ingest)
+- [Create](/Create)
+- [Manage](/Manage)
+- [Distribute](/Distribute)
+- [Monetize](/Monetize)
+
+Alternatively, you can review the entire range of [M&E Solutions](/Solutions).
+
 ## Contents
 
 For each Media and Entertainment technology, each linked repository addresses five main questions:
@@ -53,16 +68,6 @@ For each Media and Entertainment technology, each linked repository addresses fi
 - How do you implement it?
 
 By taking this approach, we aim to inform both those within the M&E industry and technical personnel responsible for incorporating each technology.
-
-## Technology Repositories
-
-Microsoft Azure M&E technologies include the following services:
-
-- [Avere Terraform](https://github.com/Azure/Avere/tree/master/src/terraform) - automating the creation of high-performance computing nodes in Azure to scale up PPP environments rapidly.
-- [Azure Rendering GitOps](https://github.com/Azure/Avere/tree/master/src/tutorials/GitOps) - description TBC.
-- [Azure Artist Anywhere](https://github.com/Azure/Avere/tree/master/src/tutorials/ArtistAnywhere) - deploy a complete media rendering solution in Microsoft Azure.
-- [Avid deployment](https://github.com/Azure/VideoEditorialInTheCloud/tree/master/EITC-BYOL) - implement Nexis or Media Composer in Azure using your own licenses.
-- [Video to Gif Function](https://github.com/krishnaji/durable-function-video-to-gif) - create gifs direct from video uploads.
 
 ## Contact Us
 
