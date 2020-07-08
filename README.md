@@ -48,27 +48,27 @@ Microsoft Azure M&E technologies provide support for the entire media creation t
     - [Hub/Spoke Hybrid Network](/Foundation/hubspoke-Architecture) : Create a hub/spoke network with VPN back to on-premise
 
 - **[Ingest](/Ingest)** : Content Focused on getting media assets into an Azure media pipeline
-    - [Signiant ingest pipeline](/blob/master/Ingest/signiant) : Ingest pipeline utilizing Signiant's technology
-    - [Aspera Ingest pipeline](/blob/master/Ingest/aspera) : Ingest pipeline utilizing Aspera's technology
-    - [Simple Ingest](/blob/master/Ingest/simple-ingest) : Examples of ways to ingest with cloud native tooling
+    - [Signiant ingest pipeline](/Ingest/signiant) : Ingest pipeline utilizing Signiant's technology
+    - [Aspera Ingest pipeline](/Ingest/aspera) : Ingest pipeline utilizing Aspera's technology
+    - [Simple Ingest](/Ingest/simple-ingest) : Examples of ways to ingest with cloud native tooling
  
 - **[Create](/Create)** : Content focused on creating, transforming or transcoding media assets
-    - [Avere Rendering](/blob/master/Create/avere-rendering) : Render content utilizing Azure HPC
-    - [Video to Gif Converter](/blob/master/Create/video-gif-converter) : Convert mp4 videos to gif's using an Azure Function
-    - [Remote Editing Workstation](/blob/master/Create/remote-edit-workstation) : Scripts to deploy a Virtual Machine optimized to run editing software such as Adobe Photoshop, Adobe Premiere, or BlackMagic Resolve.
-    - [Intelligent Metadata Generation](/blob/master/Create/intelligent-metadata-generator) : Generate intelligent insights about video files and extract JSON output utilizing a Video Indexer workflow
+    - [Avere Rendering](/Create/avere-rendering) : Render content utilizing Azure HPC
+    - [Video to Gif Converter](/Create/video-gif-converter) : Convert mp4 videos to gif's using an Azure Function
+    - [Remote Editing Workstation](/Create/remote-edit-workstation) : Scripts to deploy a Virtual Machine optimized to run editing software such as Adobe Photoshop, Adobe Premiere, or BlackMagic Resolve.
+    - [Intelligent Metadata Generation](/Create/intelligent-metadata-generator) : Generate intelligent insights about video files and extract JSON output utilizing a Video Indexer workflow
 
 - **[Manage](/Manage)** : Content focused on managing media assets such as DAMs and MAMs
-    - [Avid Media Central](/blob/master/Manage/avid-media-central) : Deploy Avid's Media Central for managing media assets
+    - [Avid Media Central](/Manage/avid-media-central) : Deploy Avid's Media Central for managing media assets
 
 - **[Distribute](/Distribute)** : Content focused on moving media assets out of Azure into production
 
 - **[Monetize](/Monetize)** : Content focused on monetizing media production such as advertising
-    - [Intelligent Metadata Generation](/blob/master/Monetize/intelligent-metadata-generate) : Generate intelligent insights about video files that support metadata tags advertisers look for.
+    - [Intelligent Metadata Generation](/Monetize/intelligent-metadata-generate) : Generate intelligent insights about video files that support metadata tags advertisers look for.
     
 - **[M&E Solutions](/Solutions)** : End to End solutions utilizing integrations of multiple products
-    - [PowerApps Ingest Pipeline](/blob/master/Solutions/powerapp) : Ingest pipeline using PowerApps automation and Azure serverless and partner solutions
-    - [Avid Editorial Pipeline](/blob/master/Solutions/avid-editorial-pipeline) : Deploy an end to end solution for ingesting content, managing media assets and editing content through Avid.
+    - [PowerApps Ingest Pipeline](/Solutions/powerapp) : Ingest pipeline using PowerApps automation and Azure serverless and partner solutions
+    - [Avid Editorial Pipeline](/Solutions/avid-editorial-pipeline) : Deploy an end to end solution for ingesting content, managing media assets and editing content through Avid.
 
 ## Contents
 
