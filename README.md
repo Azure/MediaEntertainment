@@ -45,7 +45,7 @@ To ensure that these industry-specific roles can implement M&E technologies on M
 Microsoft Azure M&E technologies provide support for the entire media creation through post-production process:
 
 - **[Foundation](/Foundation)** : Content focused on the landing zone for media asset resources if you do not have one already
-    - [Hub/Spoke Hybrid Network](/Foundation/hubspoke-Architecture) : Create a hub/spoke network with VPN back to on-premise
+    - [Hub/Spoke Hybrid Network](/Foundation/hubspoke-architecture) : Create a hub/spoke network with VPN back to on-premise
 
 - **[Ingest](/Ingest)** : Content Focused on getting media assets into an Azure media pipeline
     - [Signiant ingest pipeline](/Ingest/signiant) : Ingest pipeline utilizing Signiant's technology
