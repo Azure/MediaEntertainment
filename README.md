@@ -70,10 +70,12 @@ Microsoft Azure M&E technologies support media creation through the entire post-
 
 For each Media and Entertainment technology, each repository provides details on the following:
 
-- What are the technology components and/or solution?
+- What is it?
 - Why do you need it?
 - What are the potential use cases?
-- Link to the code repository.
+- What are the technology components and/or solution?
+
+Finally, there is a link to the code repository for that technology or solution.
 
 By taking this approach, we aim to inform both those within the M&E industry and technical personnel responsible for incorporating each technology.
 

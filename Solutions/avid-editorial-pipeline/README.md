@@ -1,11 +1,19 @@
-# Create
+# Avid Editorial Pipeline
+
+## What is it?
 
 Content in here.
 
-## M&E Technologies
+## Why do you need it?
 
-The Create phase includes the following Microsoft Azure M&E technologies:
+Content in here.
 
-- Technology 1
-- Technology 2
-- Technology 3
+## What are the potential use cases?
+
+Content in here.
+
+## What are the technology components and/or solution?
+
+Content in here.
+
+## Access to the Source Repository
