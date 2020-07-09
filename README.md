@@ -40,35 +40,31 @@ To ensure that these industry-specific roles can implement M&E technologies on M
 - Partners working with M&E groups to deliver productions
 - Software integrators developing industry-specific solutions on Microsoft Azure
 
-## Table of Contents
+## Technologies
 
-Microsoft Azure M&E technologies provide support for the entire media creation through post-production process:
+Microsoft Azure M&E technologies support media creation through the entire post-production process:
 
-- **[Foundation](/Foundation)** : Content focused on the landing zone for media asset resources if you do not have one already
-    - [Hub/Spoke Hybrid Network](/Foundation/hubspoke-architecture) : Create a hub/spoke network with VPN back to on-premise
-
-- **[Ingest](/Ingest)** : Content Focused on getting media assets into an Azure media pipeline
-    - [Signiant ingest pipeline](/Ingest/signiant) : Ingest pipeline utilizing Signiant's technology
-    - [Aspera Ingest pipeline](/Ingest/aspera) : Ingest pipeline utilizing Aspera's technology
-    - [Simple Ingest](/Ingest/simple-ingest) : Examples of ways to ingest with cloud native tooling
- 
-- **[Create](/Create)** : Content focused on creating, transforming or transcoding media assets
-    - [Avere Rendering](/Create/avere-rendering) : Render content utilizing Azure HPC
-    - [Video to Gif Converter](/Create/video-gif-converter) : Convert mp4 videos to gif's using an Azure Function
-    - [Remote Editing Workstation](/Create/remote-edit-workstation) : Scripts to deploy a Virtual Machine optimized to run editing software such as Adobe Photoshop, Adobe Premiere, or BlackMagic Resolve.
-    - [Intelligent Metadata Generation](/Create/intelligent-metadata-generator) : Generate intelligent insights about video files and extract JSON output utilizing a Video Indexer workflow
-
-- **[Manage](/Manage)** : Content focused on managing media assets such as DAMs and MAMs
-    - [Avid Media Central](/Manage/avid-media-central) : Deploy Avid's Media Central for managing media assets
-
-- **[Distribute](/Distribute)** : Content focused on moving media assets out of Azure into production
-
-- **[Monetize](/Monetize)** : Content focused on monetizing media production such as advertising
-    - [Intelligent Metadata Generation](/Monetize/intelligent-metadata-generate) : Generate intelligent insights about video files that support metadata tags advertisers look for.
-    
-- **[M&E Solutions](/Solutions)** : End to End solutions utilizing integrations of multiple products
-    - [PowerApps Ingest Pipeline](/Solutions/powerapp) : Ingest pipeline using PowerApps automation and Azure serverless and partner solutions
-    - [Avid Editorial Pipeline](/Solutions/avid-editorial-pipeline) : Deploy an end to end solution for ingesting content, managing media assets and editing content through Avid.
+|     **Area / Technology**                                                               |     **Explanation**                                                                                                                            |
+|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|     **[Foundation](/Foundation)**                                                       |     Content focused on the landing zone for media asset resources if you   do not have one already                                             |
+|         [Hub/Spoke Hybrid   Network](/Foundation/hubspoke-architecture)                 |     Create a hub/spoke network with VPN back to on-premise                                                                                     |
+|     **[Ingest](/Ingest)**                                                               |     Content Focused on getting media assets into an Azure media pipeline                                                                       |
+|         [Signiant ingest   pipeline](/Ingest/signiant)                                  |     Ingest pipeline utilizing Signiant's technology                                                                                            |
+|         [Aspera Ingest   pipeline](/Ingest/aspera)                                      |     Ingest pipeline utilizing Aspera's technology                                                                                              |
+|         [Simple   Ingest](/Ingest/simple-ingest)                                        |     Examples of ways to ingest with cloud native tooling                                                                                       |
+|     **[Create](/Create)**                                                               |     Content focused on creating, transforming or transcoding media assets                                                                      |
+|         [Avere   Rendering](/Create/avere-rendering)                                    |     Render content utilizing Azure HPC                                                                                                         |
+|         [Video to Gif   Converter](/Create/video-gif-converter)                         |     Convert mp4 videos to gif's using an Azure Function                                                                                        |
+|         [Remote Editing   Workstation](/Create/remote-edit-workstation)                 |     Scripts to deploy a Virtual Machine optimized to run editing software   such as Adobe Photoshop, Adobe Premiere, or BlackMagic Resolve.    |
+|         [Intelligent Metadata   Generation](/Create/intelligent-metadata-generator)     |     Generate intelligent insights about video files and extract JSON   output utilizing a Video Indexer workflow                               |
+|     **[Manage](/Manage)**                                                               |     Content focused on managing media assets such as DAMs and MAMs                                                                             |
+|         [Avid Media   Central](/Manage/avid-media-central)                              |     Deploy Avid's Media Central for managing media assets                                                                                      |
+|     **[Distribute](/Distribute)**                                                       |     Content focused on moving media assets out of Azure into production                                                                        |
+|     **[Monetize](/Monetize)**                                                           |     Content focused on monetizing media production such as advertising                                                                         |
+|         [Intelligent Metadata   Generation](/Monetize/intelligent-metadata-generate)    |     Generate intelligent insights about video files that support metadata   tags advertisers look for.                                         |
+|     **[M&E Solutions](/Solutions)**                                                     |     End to End solutions utilizing integrations of multiple products                                                                           |
+|         [PowerApps Ingest   Pipeline](/Solutions/powerapp)                              |     Ingest pipeline using PowerApps automation and Azure serverless and   partner solutions                                                    |
+|         [Avid Editorial   Pipeline](/Solutions/avid-editorial-pipeline)                 |     Deploy an end to end solution for ingesting content, managing media   assets and editing content through Avid.                             |
 
 ## Contents
 
