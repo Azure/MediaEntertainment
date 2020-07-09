@@ -1,11 +1,5 @@
-# Create
+# Monetize
 
-Content in here.
+Monetizing your content is usually a central consideration. Microsoft Azure M&E enables you to tie in to advertisers and get your content promoted. The Create phase includes the following Microsoft Azure M&E technology:
 
-## M&E Technologies
-
-The Create phase includes the following Microsoft Azure M&E technologies:
-
-- Technology 1
-- Technology 2
-- Technology 3
+- [Intelligent Metadata Generation](/Monetize/intelligent-metadata-generate)

@@ -1,11 +1,5 @@
 # Manage
 
-Content in here.
+Managing media assets is a key part of PPP, either through Digital Asset Management (DAM) or Media Asset Management (MAM). The Manage phase includes the following Microsoft Azure M&E technology:
 
-## M&E Technologies
-
-The Manage phase includes the following Microsoft Azure M&E technologies:
-
-- Technology 1
-- Technology 2
-- Technology 3
+- [Avid Media Central](/Manage/avid-media-central)
