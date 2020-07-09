@@ -42,13 +42,13 @@ To ensure that these industry-specific roles can implement M&E technologies on M
 
 ## Technologies
 
-Microsoft Azure M&E technologies support media creation through the entire post-production process:
+Microsoft Azure M&E technologies support media creation through the entire post-production process. Click the links to find out more:
 
 |     **Area / Technology**                                                           |     **Explanation**                                                                                                                  |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|     **[Foundation](/Foundation)**                                                   |     **Getting started with Microsoft Azure M&E PPP technologies**                                                                    |
+|     **[Foundation](/Foundation)**                                                   |     **Get started with Microsoft Azure M&E PPP technologies**                                                                    |
 |     [Hub/Spoke Hybrid Network](/Foundation/hubspoke-architecture)                   |     Create a hub and spoke network with VPN connectivity to your on-premises   environment                                           |
-|     **[Ingest](/Ingest)**                                                           |     **Get your media assets into Azure**                                                                                             |
+|     **[Ingest](/Ingest)**                                                           |     **Upload your media assets to Microsoft Azure**                                                                                             |
 |     [Signiant ingest pipeline](/Ingest/signiant)                                    |     Use Signiant to create an ingest pipeline                                                                                        |
 |     [Aspera Ingest pipeline](/Ingest/aspera)                                        |     Use Aspera to create an ingest pipeline                                                                                          |
 |     [Simple Ingest](/Ingest/simple-ingest)                                          |     Ingest content using Azure tools                                                                                                 |
