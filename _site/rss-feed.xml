@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Azure Media &amp; Entertainment Solutions</title>
+		<description>Solutions for Media Workloads</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Core Enablement</title>
+				
+					<dc:creator>Microsoft</dc:creator>
+				
+				
+					<description>&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;/h2&gt;
+
+</description>
+				
+				<pubDate>Thu, 06 Aug 2020 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/enablement/enablement.html</link>
+				<guid isPermaLink="true">http://localhost:4000/enablement/enablement.html</guid>
+			</item>
+		
+			<item>
+				<title>Distribution</title>
+				
+					<dc:creator>Microsoft</dc:creator>
+				
+				
+					<description>&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 05 Aug 2020 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/distribution/distribution.html</link>
+				<guid isPermaLink="true">http://localhost:4000/distribution/distribution.html</guid>
+			</item>
+		
+			<item>
+				<title>Media Supply Chain</title>
+				
+					<dc:creator>Microsoft</dc:creator>
+				
+				
+					<description>&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 04 Aug 2020 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/supplychain/supply-chain.html</link>
+				<guid isPermaLink="true">http://localhost:4000/supplychain/supply-chain.html</guid>
+			</item>
+		
+			<item>
+				<title>Video Editing</title>
+				
+					<dc:creator>Microsoft</dc:creator>
+				
+				
+					<description>&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/edit/video-editing.html</link>
+				<guid isPermaLink="true">http://localhost:4000/edit/video-editing.html</guid>
+			</item>
+		
+			<item>
+				<title>Content Production</title>
+				
+					<dc:creator>Microsoft</dc:creator>
+				
+				
+					<description>&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 02 Aug 2020 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/content/content-production.html</link>
+				<guid isPermaLink="true">http://localhost:4000/content/content-production.html</guid>
+			</item>
+		
+			<item>
+				<title>Content Ingestion</title>
+				
+					<dc:creator>Microsoft</dc:creator>
+				
+				
+					<description>&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;/h2&gt;
+
+</description>
+				
+				<pubDate>Sat, 01 Aug 2020 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/ingest/content-ingest.html</link>
+				<guid isPermaLink="true">http://localhost:4000/ingest/content-ingest.html</guid>
+			</item>
+		
+	</channel>
+</rss>

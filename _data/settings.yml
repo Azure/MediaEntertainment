@@ -1,0 +1,33 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: 'UA-112060364-2'
+
+menu:
+- {name: 'Highlights', folder: 'pages', file: 'highlights.html'}
+- {name: 'Partners', folder: 'pages', file: 'partners.html'}
+- {name: 'Solutions', folder: 'pages', file: 'solutions.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'twitter', link: 'https://twitter.com/microsoft'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA'}
+- {icon: 'envelope', link: 'mailto:gitme@microsoft.com'}
+- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Share this content'
+
+related_posts: 'Related Content'
+
+post_date_prefix: 'Written on'

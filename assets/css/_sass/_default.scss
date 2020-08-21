@@ -1,0 +1,53 @@
+/*
+  Site container
+*/
+
+.mstitlebox {
+  background-color: #9e94db ;
+  padding: 10px ;
+  border: 1px solid #101010 ;
+}
+
+.partnertitlebox {
+  background-color: #dd9f4d ;
+  padding: 10px ;
+  border: 1px solid #101010 ;
+}
+
+.textbox {
+  background-color: #f8f8f8 ;
+  padding: 10px ;
+  border: 1px solid #101010 ;
+}
+
+
+.container {
+  width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container a {
+  text-decoration: underline;
+}
+.posts-wrapper {
+  padding-top: $header-thickness+10px;
+  margin: auto;
+  display: block;
+  width: $container-width - 20px;
+}
+.posts-wrapper h1 {
+  margin: 20px 0px 5px;
+}
+@media (max-width: $container-width) {
+  .container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .posts-wrapper {
+    padding-top: $header-thickness+10px;
+    margin: auto;
+    display: block;
+    width: 95vw;
+  }
+}
