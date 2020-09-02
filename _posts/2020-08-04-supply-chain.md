@@ -3,7 +3,7 @@ layout: post
 title: "Media Supply Chain"
 author: "Microsoft"
 categories: supplychain
-tags: [supplychain]
+tags: ['supplychain']
 image: supplychain.png
 ---
 

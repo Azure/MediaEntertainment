@@ -3,18 +3,48 @@ layout: default
 title: Home
 ---
 
-{% for post in paginator.posts %}
-
 <article>
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
+  <a href="{{ site.github.url }}{% post_url 2020-08-06-enablement %}">
+    <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/enablement.jpg);background-size: 100% 75%">
+      <h2>Core Enablement</h2>
     </div>
   </a>
 </article>
-
-{% endfor %}
-
+<article>
+  <a href="{{ site.github.url }}{% post_url 2020-08-01-content-ingest%}">
+    <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/ingest.png);background-size: 100% 75%">
+      <h2>Content Ingest</h2>
+    </div>
+  </a>
+</article>
+<article>
+  <a href="{{ site.github.url }}{% post_url 2020-08-04-supply-chain %}">
+    <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/supplychain.png);background-size: 100% 75%">
+      <h2>Media Supply Chain</h2>
+    </div>
+  </a>
+</article>
+<article>
+  <a href="{{ site.github.url }}{% post_url 2020-08-02-content-production %}">
+    <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/content.jpg);background-size: 100% 75%">
+      <h2>Content Production</h2>
+    </div>
+  </a>
+</article>
+<article>
+  <a href="{{ site.github.url }}{% post_url 2020-08-03-video-editing %}">
+    <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/editing.jpg);background-size: 100% 75%">
+      <h2>Video Editing</h2>
+    </div>
+  </a>
+</article>
+<article>
+  <a href="{{ site.github.url }}{% post_url 2020-08-05-distribution %}">
+    <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/distribution.jpg);background-size: 100% 75%">
+      <h2>Distribution</h2>
+    </div>
+  </a>
+</article>
 <br>
 <hr>
 <br>

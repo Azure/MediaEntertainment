@@ -3,7 +3,7 @@ layout: post
 title: "Content Ingestion"
 author: "Microsoft"
 categories: ingest
-tags: [ingest]
+tags: ['ingest']
 image: ingest.png
 ---
 

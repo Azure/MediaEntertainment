@@ -3,7 +3,7 @@ layout: post
 title: "Core Enablement"
 author: "Microsoft"
 categories: enablement
-tags: [enablement]
+tags: ['enablement']
 image: enablement.jpg
 ---
 
