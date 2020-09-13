@@ -7,14 +7,18 @@ tags: ['enablement']
 image: enablement.jpg
 ---
 
-## Solutions
+```
+Are you just getting started with your cloud journey?*
 
-A Hub and spoke topology is a networking model for more efficient management of common communication or security requirements. This arrangement also helps avoid Azure subscription limitations. This hub and spoke model addresses the following concerns:
+Building a Prototype or Minimal Viable Product and require an Azure foundation on which to build your service?* 
+```
+Azure Core Enablement provides access to repositories and templates that enable you to quickly deploy a foundation architecture. Including:
+* Hub/Spoke Network Architecture
+* Connectivity via VPN or ExpressRoute
+* Security and Access Controls
+* Monitoring and Logging
 
-Cost savings and management efficiency. Multiple workloads, such as network virtual appliances (NVAs) and DNS servers, can share centralized services in a single location. This approach enables IT departments to minimize redundant resources and management effort.
-Overcoming subscriptions limits. Large cloud-based workloads might require the use of more resources than a single Azure subscription allows. Arranging virtual network workloads on a peer-to-peer basis from different subscriptions to a central hub can overcome these limits. For more information, see Azure subscription limits.
-Separation of concerns. You can deploy individual workloads between Central IT teams and workload teams.
-Note that smaller cloud environments might not benefit from the added capabilities that this model offers. However, if you are designing a larger cloud-based environment, you should consider implementing a hub and spoke networking architecture if you have any of the concerns in the previous list.
+------------
 
 <div class="mstitlebox">
 <h3><a href="https://github.com/Azure/caf-terraform-landingzonese">Azure Terraform Landing Zones</a></h3>
