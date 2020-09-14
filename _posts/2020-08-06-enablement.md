@@ -7,36 +7,42 @@ tags: ['enablement']
 image: enablement.jpg
 ---
 
-```
-Are you just getting started with your cloud journey?*
+>Are you just getting started with your cloud journey?
 
-Building a Prototype or Minimal Viable Product and require an Azure foundation on which to build your service?* 
-```
+>Building a Prototype or Minimal Viable Product and require an Azure foundation on which to build your service?
+
+
 Azure Core Enablement provides access to repositories and templates that enable you to quickly deploy a foundation architecture. Including:
 * Hub/Spoke Network Architecture
 * Connectivity via VPN or ExpressRoute
 * Security and Access Controls
 * Monitoring and Logging
 
-------------
-
 <div class="mstitlebox">
-<h3><a href="https://github.com/Azure/caf-terraform-landingzonese">Azure Terraform Landing Zones</a></h3>
+<h3><a href="https://github.com/Azure/caf-terraform-landingzones">Azure Cloud Adoption Framework landing zones for Terraform</a></h3>
 </div>
-<div class ="textbox">
-<i>Sample landing zones
-Currently we provide you with the following sample landing zones:
-
-Name	Purpose
-landingzone_caf_foundations	setup all the fundamentals for a subscription (logging, accounting, security.). You can find all details of the caf_foundations landing zone Here
-landingzone_hub_spoke	example of hub and spoke environment documentation here
-landingzone_hub_mesh	example of hub and mesh environment with Azure Virtual WAN documentation here
-landingzone_vdc_demo	setup a demo environment of a hub-spoke topology including shared services, as well as various DMZ (ingress, egress, transit). You can find all details of the vdc_demo landing zone Here
-landingzone_secure_vnet_dmz	(preview) this is an early implementation of the reference architecture secure_vnet_dmz. This is a work in progress used to illustrate landing zone creation process as described here . You can find all details of the secure vnet dmz landing zone Here
-landingzone_starter	this is an empty landing zones to use as a template to develop a level 2 landing zone. You can find all details of the starter landing zone Here</i>
+<div class="textbox">
+The Microsoft <a href="https://aka.ms/caf">Cloud Adoption Framework</a> for Azure provides you with guidance and best practices to adopt Azure. Utilize this template when your organization utilizes Terraform for deployment scripts.
+<br>
+<img src="https://github.com/Azure/caf-terraform-landingzones/raw/master/_pictures/caf_elements.png" height="200" width="500"/>
 <br>
 <h4>(provided by Microsoft)</h4>
 </div>
+<div class="bottombox"><img src="/assets/img/terraform.png" height="40" width="40" /></div>
+
+<p>
+<br>
+<p>
+
+<div class="mstitlebox">
+<h3><a href="https://github.com/Azure/Enterprise-Scale">Azure Enterprise Scale</a></h3>
+</div>
+<div class ="textbox">
+The Microsoft <a href="https://aka.ms/caf">Cloud Adoption Framework</a> also provides an Azure native solution utilizing Azure ARM Templates for the foundation known as  Enterprise-Scale architecture. This architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture. It will continue to evolve alongside the Azure platform and is ultimately defined by the various design decisions that organizations must make to define their Azure journey.
+<br>
+<h4>(provided by Microsoft)</h4>
+</div>
+<div class="bottombox"><img src="/assets/img/azure.png" height="40" width="80" /></div>
 
 <p>
 <br>
