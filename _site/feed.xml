@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T19:10:38-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Azure Media &amp;amp; Entertainment Solutions</title><subtitle>Solutions for Media Workloads</subtitle><author><name>Microsoft</name></author><entry><title type="html">Core Enablement</title><link href="http://localhost:4000/enablement/enablement.html" rel="alternate" type="text/html" title="Core Enablement" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>http://localhost:4000/enablement/enablement</id><content type="html" xml:base="http://localhost:4000/enablement/enablement.html">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T19:56:51-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Azure Media &amp;amp; Entertainment Solutions</title><subtitle>Solutions for Media Workloads</subtitle><author><name>Microsoft</name></author><entry><title type="html">Core Enablement</title><link href="http://localhost:4000/enablement/enablement.html" rel="alternate" type="text/html" title="Core Enablement" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>http://localhost:4000/enablement/enablement</id><content type="html" xml:base="http://localhost:4000/enablement/enablement.html">&lt;blockquote&gt;
   &lt;p&gt;Are you just getting started with your cloud journey?&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -43,9 +43,29 @@ The Microsoft &lt;a href=&quot;https://aka.ms/caf&quot;&gt;Cloud Adoption Framew
 &lt;p&gt;
 &lt;br /&gt;
 &lt;p&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="enablement" /><summary type="html">Are you just getting started with your cloud journey?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/enablement.jpg" /></entry><entry><title type="html">Distribution</title><link href="http://localhost:4000/distribution/distribution.html" rel="alternate" type="text/html" title="Distribution" /><published>2020-08-05T00:00:00-04:00</published><updated>2020-08-05T00:00:00-04:00</updated><id>http://localhost:4000/distribution/distribution</id><content type="html" xml:base="http://localhost:4000/distribution/distribution.html">&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="enablement" /><summary type="html">Are you just getting started with your cloud journey?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/enablement.jpg" /></entry><entry><title type="html">Distribution</title><link href="http://localhost:4000/distribution/distribution.html" rel="alternate" type="text/html" title="Distribution" /><published>2020-08-05T00:00:00-04:00</published><updated>2020-08-05T00:00:00-04:00</updated><id>http://localhost:4000/distribution/distribution</id><content type="html" xml:base="http://localhost:4000/distribution/distribution.html">&lt;blockquote&gt;
+  &lt;p&gt;Are you looking for solutions to tet or deploy finished assets?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;</content><author><name>Microsoft</name></author><category term="distribution" /><summary type="html">Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/distribution.jpg" /></entry><entry><title type="html">Media Supply Chain</title><link href="http://localhost:4000/supplychain/supply-chain.html" rel="alternate" type="text/html" title="Media Supply Chain" /><published>2020-08-04T00:00:00-04:00</published><updated>2020-08-04T00:00:00-04:00</updated><id>http://localhost:4000/supplychain/supply-chain</id><content type="html" xml:base="http://localhost:4000/supplychain/supply-chain.html">&lt;blockquote&gt;
+&lt;p&gt;Distribution provides solutions that focus on media asset distribution and playback&lt;/p&gt;
+
+&lt;div class=&quot;partnertitlebox&quot;&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/Azure-Samples/media-services-3rdparty-player-samples&quot;&gt;Azure Media Services player framework samples&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;textbox&quot;&gt;
+SOUTHWORKS recently completed a comprehensive suite of Azure Media Services interoperability tests for Video.js and Shaka player, two of the most popular alternatives to the Azure Media Player (AMP) for live and on-demand streaming of hosted video.
+&lt;br /&gt;&lt;br /&gt;
+See more details here: &lt;a href=&quot;https://techcommunity.microsoft.com/t5/azure-media-services/azure-media-services-github-for-3rd-party-player-framework/ba-p/1527751&quot;&gt;Azure Media Services Blog&lt;/a&gt;
+
+&lt;br /&gt;
+&lt;h4&gt;(provided by a Microsoft Partner)&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bottombox&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/javascript.png&quot; height=&quot;40&quot; width=&quot;40&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="distribution" /><summary type="html">Are you looking for solutions to tet or deploy finished assets?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/distribution.jpg" /></entry><entry><title type="html">Media Supply Chain</title><link href="http://localhost:4000/supplychain/supply-chain.html" rel="alternate" type="text/html" title="Media Supply Chain" /><published>2020-08-04T00:00:00-04:00</published><updated>2020-08-04T00:00:00-04:00</updated><id>http://localhost:4000/supplychain/supply-chain</id><content type="html" xml:base="http://localhost:4000/supplychain/supply-chain.html">&lt;blockquote&gt;
   &lt;p&gt;Are you looking to add advanced analytic capabilities to media assets?&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -89,11 +109,96 @@ Live Video Analytics on IoT Edge is a new capability of Azure Media Services. Li
 &lt;p&gt;
 &lt;br /&gt;
 &lt;p&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="supplychain" /><summary type="html">Are you looking to add advanced analytic capabilities to media assets?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/supplychain.png" /></entry><entry><title type="html">Video Editing</title><link href="http://localhost:4000/edit/video-editing.html" rel="alternate" type="text/html" title="Video Editing" /><published>2020-08-03T00:00:00-04:00</published><updated>2020-08-03T00:00:00-04:00</updated><id>http://localhost:4000/edit/video-editing</id><content type="html" xml:base="http://localhost:4000/edit/video-editing.html">&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="supplychain" /><summary type="html">Are you looking to add advanced analytic capabilities to media assets?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/supplychain.png" /></entry><entry><title type="html">Video Editing</title><link href="http://localhost:4000/edit/video-editing.html" rel="alternate" type="text/html" title="Video Editing" /><published>2020-08-03T00:00:00-04:00</published><updated>2020-08-03T00:00:00-04:00</updated><id>http://localhost:4000/edit/video-editing</id><content type="html" xml:base="http://localhost:4000/edit/video-editing.html">&lt;blockquote&gt;
+  &lt;p&gt;Are you looking for a fully cloud based edit workstation that can be created on-demand?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;</content><author><name>Microsoft</name></author><category term="edit" /><summary type="html">Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/editing.jpg" /></entry><entry><title type="html">Content Production</title><link href="http://localhost:4000/content/content-production.html" rel="alternate" type="text/html" title="Content Production" /><published>2020-08-02T00:00:00-04:00</published><updated>2020-08-02T00:00:00-04:00</updated><id>http://localhost:4000/content/content-production</id><content type="html" xml:base="http://localhost:4000/content/content-production.html">&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+&lt;p&gt;Video Editing is focused on the workflow and capabilities to do end to end editing of media assets in Azure&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Spin up cloud resources on-demand in a standard architecture&lt;/li&gt;
+  &lt;li&gt;Hybrid connectivity back to on-premise&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;</content><author><name>Microsoft</name></author><category term="content" /><summary type="html">Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/content.jpg" /></entry><entry><title type="html">Content Ingestion</title><link href="http://localhost:4000/ingest/content-ingest.html" rel="alternate" type="text/html" title="Content Ingestion" /><published>2020-08-01T00:00:00-04:00</published><updated>2020-08-01T00:00:00-04:00</updated><id>http://localhost:4000/ingest/content-ingest</id><content type="html" xml:base="http://localhost:4000/ingest/content-ingest.html">&lt;blockquote&gt;
+&lt;div class=&quot;partnertitlebox&quot;&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid%20Edit%20In%20The%20Cloud%20-%20Arm&quot;&gt;Avid Edit Workflow (ARM)&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;textbox&quot;&gt;
+This solution covers installation of Media composer, Nexis and Jump/Bastioned host in Azure subscription using terraform templates. Information about the ecosystem, installation guide, current version supported items and future release road map is available in the project information
+&lt;br /&gt;
+&lt;h4&gt;(provided by a Microsoft Partner)&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bottombox&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/azure.png&quot; height=&quot;40&quot; width=&quot;40&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+
+&lt;div class=&quot;partnertitlebox&quot;&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid%20Edit%20In%20The%20Cloud%20-%20Terraform&quot;&gt;Avid Edit Workflow (TF)&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;textbox&quot;&gt;
+This solution covers installation of Media Composer with Nexis storage ( online) systems in Azure subscriptions using ARM Temaplates.
+&lt;br /&gt;
+&lt;h4&gt;(provided by a Microsoft Partner)&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bottombox&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/terraform.png&quot; height=&quot;40&quot; width=&quot;40&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+
+&lt;div class=&quot;partnertitlebox&quot;&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/AzEditorialWkGrp/VDI&quot;&gt;Adobe Edit Workflow (TF)&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;textbox&quot;&gt;
+Click-to-deploy Terraform templates for the automated deployment of small scale Azure-based creative production proof of concept environments. Spin up 1-5 virtual machines, shared edit storage and networking, tailored to your workflows and requirements in any Azure subscription within 30 minutes. Utilising Teradici PCoIP as the access protocol, users have high-fidelity, colour accurate access to powerful GPU enabled workstations hosting the Adobe Creative Cloud toolset.
+&lt;br /&gt;
+&lt;h4&gt;(provided by a Microsoft Partner)&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bottombox&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/terraform.png&quot; height=&quot;40&quot; width=&quot;40&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="edit" /><summary type="html">Are you looking for a fully cloud based edit workstation that can be created on-demand?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/editing.jpg" /></entry><entry><title type="html">Content Production</title><link href="http://localhost:4000/content/content-production.html" rel="alternate" type="text/html" title="Content Production" /><published>2020-08-02T00:00:00-04:00</published><updated>2020-08-02T00:00:00-04:00</updated><id>http://localhost:4000/content/content-production</id><content type="html" xml:base="http://localhost:4000/content/content-production.html">&lt;blockquote&gt;
+  &lt;p&gt;Are you looking for solutions to create content in Azure and take advantage of cloud optimized costs?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Content production provides a set of solutions to produce content on the Azure platform. This includes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Large scale complex workloads utilizing High Performance Compute and orchestrated compute nodes&lt;/li&gt;
+  &lt;li&gt;Serverless workflows that are billed on a consumption basis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;mstitlebox&quot;&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/Azure/Avere/tree/main/src/terraform&quot;&gt;Avere Rendering&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;textbox&quot;&gt;
+This solution contains Terraform Examples, Modules, and Providers for HPC Cache and Avere vFXT for Azure. Terraform 0.12.x is recommended.
+&lt;br /&gt;
+&lt;h4&gt;(provided by Microsoft)&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bottombox&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/terraform.png&quot; height=&quot;40&quot; width=&quot;40&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+
+&lt;div class=&quot;mstitlebox&quot;&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/krishnaji/durable-function-video-to-gif&quot;&gt;Video to Gif Converter&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;textbox&quot;&gt;
+This is a fun and quick solution to convert a video file into a GIF image for posting on social media. It is a great example of how to deploy a serverless workflow to produce content quickly and reliably. This application uses Azure Durable functions, Blob Storage, Event Grid, Application Insights and ffmpeg.
+&lt;br /&gt;
+&lt;h4&gt;(provided by Microsoft)&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bottombox&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/javascript.png&quot; height=&quot;40&quot; width=&quot;40&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="content" /><summary type="html">Are you looking for solutions to create content in Azure and take advantage of cloud optimized costs?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/content.jpg" /></entry><entry><title type="html">Content Ingestion</title><link href="http://localhost:4000/ingest/content-ingest.html" rel="alternate" type="text/html" title="Content Ingestion" /><published>2020-08-01T00:00:00-04:00</published><updated>2020-08-01T00:00:00-04:00</updated><id>http://localhost:4000/ingest/content-ingest</id><content type="html" xml:base="http://localhost:4000/ingest/content-ingest.html">&lt;blockquote&gt;
   &lt;p&gt;Are you looking to get content from on-premise or other clouds into Azure?&lt;/p&gt;
 &lt;/blockquote&gt;
 
