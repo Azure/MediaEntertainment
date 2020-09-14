@@ -7,18 +7,23 @@ tags: ['ingest']
 image: ingest.png
 ---
 
-## Solutions
+>Are you looking to get content from on-premise or other clouds into Azure?
 
-Ingesting content into a media production workflow is a critical priority. This page provides some key solutions and tools you can utilize to build an ingestion pipeline in Azure.
+Content ingest will allow customers and/or partners different ways to consume and send content to Azure including:
+* Optimize for data set size
+* Optimize for speed of transmission
+* Automate the flow into Azure for downstream processing
 
 <div class="mstitlebox">
 <h3><a href="https://github.com/MediaEntertainmentLabs/content-ingest-pipeline">Azure PowerApps Content Ingestion Pipeline</a></h3>
 </div>
 <div class ="textbox">
-<i>This solution deploys a PowerApps pipeline and Azure services to take vendor content, extract metadata, video insights and then condition it before outputing it to the supply chain processing workflow</i>
+<b>COMING SOON</b><br><br>
+<i>This solution deploys an ingest pipeline into Azure Blob storage utilizing PowerApps. The pipeline starts in Azure Blob to extract metadata, video insights and then condition the assets before outputing it to the supply chain processing workflow</i>
 <br>
 <h4>(provided by Microsoft)</h4>
 </div>
+<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/powerapp.png" height="40" width="40" /></div>
 
 <p>
 <br>
@@ -32,6 +37,7 @@ Ingesting content into a media production workflow is a critical priority. This 
 <br>
 <h4>(provided by a Microsoft Partner)</h4>
 </div>
+<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/javascript.png" height="40" width="40" /></div>
 
 <p>
 <br>
