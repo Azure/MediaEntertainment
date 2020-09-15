@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T19:56:51-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Azure Media &amp;amp; Entertainment Solutions</title><subtitle>Solutions for Media Workloads</subtitle><author><name>Microsoft</name></author><entry><title type="html">Core Enablement</title><link href="http://localhost:4000/enablement/enablement.html" rel="alternate" type="text/html" title="Core Enablement" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>http://localhost:4000/enablement/enablement</id><content type="html" xml:base="http://localhost:4000/enablement/enablement.html">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-09-14T20:00:01-04:00</updated><id>/feed.xml</id><title type="html">Azure Media &amp;amp; Entertainment Solutions</title><subtitle>Solutions for Media Workloads</subtitle><author><name>Microsoft</name></author><entry><title type="html">Core Enablement</title><link href="/enablement/enablement.html" rel="alternate" type="text/html" title="Core Enablement" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>/enablement/enablement</id><content type="html" xml:base="/enablement/enablement.html">&lt;blockquote&gt;
   &lt;p&gt;Are you just getting started with your cloud journey?&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -43,7 +43,7 @@ The Microsoft &lt;a href=&quot;https://aka.ms/caf&quot;&gt;Cloud Adoption Framew
 &lt;p&gt;
 &lt;br /&gt;
 &lt;p&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="enablement" /><summary type="html">Are you just getting started with your cloud journey?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/enablement.jpg" /></entry><entry><title type="html">Distribution</title><link href="http://localhost:4000/distribution/distribution.html" rel="alternate" type="text/html" title="Distribution" /><published>2020-08-05T00:00:00-04:00</published><updated>2020-08-05T00:00:00-04:00</updated><id>http://localhost:4000/distribution/distribution</id><content type="html" xml:base="http://localhost:4000/distribution/distribution.html">&lt;blockquote&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="enablement" /><summary type="html">Are you just getting started with your cloud journey?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/enablement.jpg" /></entry><entry><title type="html">Distribution</title><link href="/distribution/distribution.html" rel="alternate" type="text/html" title="Distribution" /><published>2020-08-05T00:00:00-04:00</published><updated>2020-08-05T00:00:00-04:00</updated><id>/distribution/distribution</id><content type="html" xml:base="/distribution/distribution.html">&lt;blockquote&gt;
   &lt;p&gt;Are you looking for solutions to tet or deploy finished assets?&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -65,7 +65,7 @@ See more details here: &lt;a href=&quot;https://techcommunity.microsoft.com/t5/a
 &lt;p&gt;
 &lt;br /&gt;
 &lt;p&gt;
-&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="distribution" /><summary type="html">Are you looking for solutions to tet or deploy finished assets?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/distribution.jpg" /></entry><entry><title type="html">Media Supply Chain</title><link href="http://localhost:4000/supplychain/supply-chain.html" rel="alternate" type="text/html" title="Media Supply Chain" /><published>2020-08-04T00:00:00-04:00</published><updated>2020-08-04T00:00:00-04:00</updated><id>http://localhost:4000/supplychain/supply-chain</id><content type="html" xml:base="http://localhost:4000/supplychain/supply-chain.html">&lt;blockquote&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="distribution" /><summary type="html">Are you looking for solutions to tet or deploy finished assets?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/distribution.jpg" /></entry><entry><title type="html">Media Supply Chain</title><link href="/supplychain/supply-chain.html" rel="alternate" type="text/html" title="Media Supply Chain" /><published>2020-08-04T00:00:00-04:00</published><updated>2020-08-04T00:00:00-04:00</updated><id>/supplychain/supply-chain</id><content type="html" xml:base="/supplychain/supply-chain.html">&lt;blockquote&gt;
   &lt;p&gt;Are you looking to add advanced analytic capabilities to media assets?&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -109,7 +109,7 @@ Live Video Analytics on IoT Edge is a new capability of Azure Media Services. Li
 &lt;p&gt;
 &lt;br /&gt;
 &lt;p&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="supplychain" /><summary type="html">Are you looking to add advanced analytic capabilities to media assets?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/supplychain.png" /></entry><entry><title type="html">Video Editing</title><link href="http://localhost:4000/edit/video-editing.html" rel="alternate" type="text/html" title="Video Editing" /><published>2020-08-03T00:00:00-04:00</published><updated>2020-08-03T00:00:00-04:00</updated><id>http://localhost:4000/edit/video-editing</id><content type="html" xml:base="http://localhost:4000/edit/video-editing.html">&lt;blockquote&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="supplychain" /><summary type="html">Are you looking to add advanced analytic capabilities to media assets?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/supplychain.png" /></entry><entry><title type="html">Video Editing</title><link href="/edit/video-editing.html" rel="alternate" type="text/html" title="Video Editing" /><published>2020-08-03T00:00:00-04:00</published><updated>2020-08-03T00:00:00-04:00</updated><id>/edit/video-editing</id><content type="html" xml:base="/edit/video-editing.html">&lt;blockquote&gt;
   &lt;p&gt;Are you looking for a fully cloud based edit workstation that can be created on-demand?&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -160,7 +160,7 @@ Click-to-deploy Terraform templates for the automated deployment of small scale 
 &lt;p&gt;
 &lt;br /&gt;
 &lt;p&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="edit" /><summary type="html">Are you looking for a fully cloud based edit workstation that can be created on-demand?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/editing.jpg" /></entry><entry><title type="html">Content Production</title><link href="http://localhost:4000/content/content-production.html" rel="alternate" type="text/html" title="Content Production" /><published>2020-08-02T00:00:00-04:00</published><updated>2020-08-02T00:00:00-04:00</updated><id>http://localhost:4000/content/content-production</id><content type="html" xml:base="http://localhost:4000/content/content-production.html">&lt;blockquote&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="edit" /><summary type="html">Are you looking for a fully cloud based edit workstation that can be created on-demand?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/editing.jpg" /></entry><entry><title type="html">Content Production</title><link href="/content/content-production.html" rel="alternate" type="text/html" title="Content Production" /><published>2020-08-02T00:00:00-04:00</published><updated>2020-08-02T00:00:00-04:00</updated><id>/content/content-production</id><content type="html" xml:base="/content/content-production.html">&lt;blockquote&gt;
   &lt;p&gt;Are you looking for solutions to create content in Azure and take advantage of cloud optimized costs?&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -198,7 +198,7 @@ This is a fun and quick solution to convert a video file into a GIF image for po
 &lt;br /&gt;
 &lt;p&gt;
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="content" /><summary type="html">Are you looking for solutions to create content in Azure and take advantage of cloud optimized costs?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/content.jpg" /></entry><entry><title type="html">Content Ingestion</title><link href="http://localhost:4000/ingest/content-ingest.html" rel="alternate" type="text/html" title="Content Ingestion" /><published>2020-08-01T00:00:00-04:00</published><updated>2020-08-01T00:00:00-04:00</updated><id>http://localhost:4000/ingest/content-ingest</id><content type="html" xml:base="http://localhost:4000/ingest/content-ingest.html">&lt;blockquote&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="content" /><summary type="html">Are you looking for solutions to create content in Azure and take advantage of cloud optimized costs?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/content.jpg" /></entry><entry><title type="html">Content Ingestion</title><link href="/ingest/content-ingest.html" rel="alternate" type="text/html" title="Content Ingestion" /><published>2020-08-01T00:00:00-04:00</published><updated>2020-08-01T00:00:00-04:00</updated><id>/ingest/content-ingest</id><content type="html" xml:base="/ingest/content-ingest.html">&lt;blockquote&gt;
   &lt;p&gt;Are you looking to get content from on-premise or other clouds into Azure?&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -237,4 +237,4 @@ This is a fun and quick solution to convert a video file into a GIF image for po
 &lt;p&gt;
 &lt;br /&gt;
 &lt;p&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="ingest" /><summary type="html">Are you looking to get content from on-premise or other clouds into Azure?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ingest.png" /></entry></feed>
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Microsoft</name></author><category term="ingest" /><summary type="html">Are you looking to get content from on-premise or other clouds into Azure?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ingest.png" /></entry></feed>
