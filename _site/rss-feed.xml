@@ -19,8 +19,8 @@
 </description>
 				
 				<pubDate>Thu, 06 Aug 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/enablement/enablement.html</link>
-				<guid isPermaLink="true">http://localhost:4000/enablement/enablement.html</guid>
+				<link>/enablement/enablement.html</link>
+				<guid isPermaLink="true">/enablement/enablement.html</guid>
 			</item>
 		
 			<item>
@@ -36,8 +36,8 @@
 </description>
 				
 				<pubDate>Wed, 05 Aug 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/distribution/distribution.html</link>
-				<guid isPermaLink="true">http://localhost:4000/distribution/distribution.html</guid>
+				<link>/distribution/distribution.html</link>
+				<guid isPermaLink="true">/distribution/distribution.html</guid>
 			</item>
 		
 			<item>
@@ -53,8 +53,8 @@
 </description>
 				
 				<pubDate>Tue, 04 Aug 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/supplychain/supply-chain.html</link>
-				<guid isPermaLink="true">http://localhost:4000/supplychain/supply-chain.html</guid>
+				<link>/supplychain/supply-chain.html</link>
+				<guid isPermaLink="true">/supplychain/supply-chain.html</guid>
 			</item>
 		
 			<item>
@@ -70,8 +70,8 @@
 </description>
 				
 				<pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/edit/video-editing.html</link>
-				<guid isPermaLink="true">http://localhost:4000/edit/video-editing.html</guid>
+				<link>/edit/video-editing.html</link>
+				<guid isPermaLink="true">/edit/video-editing.html</guid>
 			</item>
 		
 			<item>
@@ -87,8 +87,8 @@
 </description>
 				
 				<pubDate>Sun, 02 Aug 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/content/content-production.html</link>
-				<guid isPermaLink="true">http://localhost:4000/content/content-production.html</guid>
+				<link>/content/content-production.html</link>
+				<guid isPermaLink="true">/content/content-production.html</guid>
 			</item>
 		
 			<item>
@@ -104,8 +104,8 @@
 </description>
 				
 				<pubDate>Sat, 01 Aug 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/ingest/content-ingest.html</link>
-				<guid isPermaLink="true">http://localhost:4000/ingest/content-ingest.html</guid>
+				<link>/ingest/content-ingest.html</link>
+				<guid isPermaLink="true">/ingest/content-ingest.html</guid>
 			</item>
 		
 	</channel>
