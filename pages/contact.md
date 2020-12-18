@@ -3,4 +3,13 @@ layout: misc
 title: Contact
 ---
 
-Email us at [MAIL](mailto:gitme@microsoft.com).
+Submit a request to have your content added to the site here: <br>
+[Content Request](https://aka.ms/gitmerequest)
+
+<hr>
+
+For other inquiries contact the team at: <br>
+ [MAIL](mailto:gitme@microsoft.com).
+
+
+
