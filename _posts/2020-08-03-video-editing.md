@@ -14,7 +14,7 @@ Video Editing is focused on the workflow and capabilities to do end to end editi
 * Hybrid connectivity back to on-premise
 
 <div class="partnertitlebox">
-<h3><a href="https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid%20Edit%20In%20The%20Cloud%20-%20Arm">Avid Edit Workflow (ARM)</a></h3>
+<h3><a href="https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid_Edit_In_The_Cloud_Arm">Avid Edit Workflow (ARM)</a></h3>
 </div>
 <div class ="textbox">
 This solution covers installation of Media composer, Nexis and Jump/Bastioned host in Azure subscription using terraform templates. Information about the ecosystem, installation guide, current version supported items and future release road map is available in the project information
@@ -28,7 +28,7 @@ This solution covers installation of Media composer, Nexis and Jump/Bastioned ho
 <p>
 
 <div class="partnertitlebox">
-<h3><a href="https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid%20Edit%20In%20The%20Cloud%20-%20Terraform">Avid Edit Workflow (TF)</a></h3>
+<h3><a href="https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid_Edit_In_The_Cloud_Terraform">Avid Edit Workflow (TF)</a></h3>
 </div>
 <div class ="textbox">
 This solution covers installation of Media Composer with Nexis storage ( online) systems in Azure subscriptions using ARM Temaplates.
