@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-18T10:14:09-05:00</updated><id>/feed.xml</id><title type="html">Azure Media &amp;amp; Entertainment Solutions</title><subtitle>Solutions for Media Workloads</subtitle><author><name>Microsoft</name></author><entry><title type="html">Core Enablement</title><link href="/enablement/enablement.html" rel="alternate" type="text/html" title="Core Enablement" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>/enablement/enablement</id><content type="html" xml:base="/enablement/enablement.html">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-22T14:20:21-05:00</updated><id>/feed.xml</id><title type="html">Azure Media &amp;amp; Entertainment Solutions</title><subtitle>Solutions for Media Workloads</subtitle><author><name>Microsoft</name></author><entry><title type="html">Core Enablement</title><link href="/enablement/enablement.html" rel="alternate" type="text/html" title="Core Enablement" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>/enablement/enablement</id><content type="html" xml:base="/enablement/enablement.html">&lt;blockquote&gt;
   &lt;p&gt;Are you just getting started with your cloud journey?&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -120,7 +120,7 @@ Live Video Analytics on IoT Edge is a new capability of Azure Media Services. Li
 &lt;/ul&gt;
 
 &lt;div class=&quot;partnertitlebox&quot;&gt;
-&lt;h3&gt;&lt;a href=&quot;https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid%20Edit%20In%20The%20Cloud%20-%20Arm&quot;&gt;Avid Edit Workflow (ARM)&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid_Edit_In_The_Cloud_Arm&quot;&gt;Avid Edit Workflow (ARM)&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;div class=&quot;textbox&quot;&gt;
 This solution covers installation of Media composer, Nexis and Jump/Bastioned host in Azure subscription using terraform templates. Information about the ecosystem, installation guide, current version supported items and future release road map is available in the project information
@@ -134,7 +134,7 @@ This solution covers installation of Media composer, Nexis and Jump/Bastioned ho
 &lt;p&gt;
 
 &lt;div class=&quot;partnertitlebox&quot;&gt;
-&lt;h3&gt;&lt;a href=&quot;https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid%20Edit%20In%20The%20Cloud%20-%20Terraform&quot;&gt;Avid Edit Workflow (TF)&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/avid-technology/VideoEditorialInTheCloud/tree/master/Avid_Edit_In_The_Cloud_Terraform&quot;&gt;Avid Edit Workflow (TF)&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;div class=&quot;textbox&quot;&gt;
 This solution covers installation of Media Composer with Nexis storage ( online) systems in Azure subscriptions using ARM Temaplates.
@@ -171,10 +171,10 @@ Click-to-deploy Terraform templates for the automated deployment of small scale 
 &lt;/ul&gt;
 
 &lt;div class=&quot;mstitlebox&quot;&gt;
-&lt;h3&gt;&lt;a href=&quot;https://github.com/Azure/Avere/tree/main/src/terraform&quot;&gt;Avere Rendering&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/Azure/Avere/tree/main/src/terraform&quot;&gt;VFX and Animation Rendering with HPC Cache and Avere vFXT on Azure&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;div class=&quot;textbox&quot;&gt;
-This solution contains Terraform Examples, Modules, and Providers for HPC Cache and Avere vFXT for Azure. Terraform 0.12.x is recommended.
+This solution describes burst rendering on Azure.  The page has videos, whitepapers, and end to end examples written in Terraform.
 &lt;br /&gt;
 &lt;h4&gt;(provided by Microsoft)&lt;/h4&gt;
 &lt;/div&gt;

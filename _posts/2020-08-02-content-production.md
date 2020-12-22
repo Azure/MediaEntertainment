@@ -14,10 +14,10 @@ Content production provides a set of solutions to produce content on the Azure p
 * Serverless workflows that are billed on a consumption basis
 
 <div class="mstitlebox">
-<h3><a href="https://github.com/Azure/Avere/tree/main/src/terraform">Avere Rendering</a></h3>
+<h3><a href="https://github.com/Azure/Avere/tree/main/src/terraform">VFX and Animation Rendering with HPC Cache and Avere vFXT on Azure</a></h3>
 </div>
 <div class ="textbox">
-This solution contains Terraform Examples, Modules, and Providers for HPC Cache and Avere vFXT for Azure. Terraform 0.12.x is recommended.
+This solution describes burst rendering on Azure.  The page has videos, whitepapers, and end to end examples written in Terraform.
 <br>
 <h4>(provided by Microsoft)</h4>
 </div>
