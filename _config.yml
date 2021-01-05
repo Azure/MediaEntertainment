@@ -1,5 +1,8 @@
 # Site Build Settings
 
+# Ensure we can connect to the server when port forwarding to a container
+host: 0.0.0.0
+
 # jekyll-paginate configuration
 paginate:            20
 
