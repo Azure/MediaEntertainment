@@ -1,5 +1,5 @@
 # Jekyll-specific .gitignore
-_site/
+_site/**
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
