@@ -23,7 +23,7 @@ Content ingest will allow customers and/or partners different ways to consume an
 <br>
 <h4>(provided by Microsoft)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/powerapp.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/powerapp.png" height="40" width="40" /></div>
 
 <p>
 <br>
@@ -37,7 +37,7 @@ Content ingest will allow customers and/or partners different ways to consume an
 <br>
 <h4>(provided by a Microsoft Partner)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/javascript.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/javascript.png" height="40" width="40" /></div>
 
 <p>
 <br>

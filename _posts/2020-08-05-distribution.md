@@ -22,7 +22,7 @@ See more details here: <a href="https://techcommunity.microsoft.com/t5/azure-med
 <br>
 <h4>(provided by a Microsoft Partner)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/javascript.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/javascript.png" height="40" width="40" /></div>
 
 <p>
 <br>

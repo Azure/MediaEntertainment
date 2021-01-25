@@ -21,7 +21,7 @@ This solution describes burst rendering on Azure.  The page has videos, whitepap
 <br>
 <h4>(provided by Microsoft)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/terraform.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/terraform.png" height="40" width="40" /></div>
 
 <p>
 <br>
@@ -35,7 +35,7 @@ This is a fun and quick solution to convert a video file into a GIF image for po
 <br>
 <h4>(provided by Microsoft)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/javascript.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/javascript.png" height="40" width="40" /></div>
 
 <p>
 <br>

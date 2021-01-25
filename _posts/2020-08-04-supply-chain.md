@@ -26,7 +26,7 @@ Please see this article for additional documentation about the keyframing proces
 <br>
 <h4>(provided by Microsoft)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/cognitive.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/cognitive.png" height="40" width="40" /></div>
 
 <p>
 <br>
@@ -40,7 +40,7 @@ Live Video Analytics on IoT Edge is a new capability of Azure Media Services. Li
 <br>
 <h4>(provided by Microsoft)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/cognitive.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/cognitive.png" height="40" width="40" /></div>
 
 <p>
 <br>

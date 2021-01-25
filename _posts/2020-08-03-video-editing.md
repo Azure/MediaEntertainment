@@ -21,7 +21,7 @@ This solution covers installation of Media composer, Nexis and Jump/Bastioned ho
 <br>
 <h4>(provided by a Microsoft Partner)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/azure.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/azure.png" height="40" width="40" /></div>
 
 <p>
 <br>
@@ -35,7 +35,7 @@ This solution covers installation of Media Composer with Nexis storage ( online)
 <br>
 <h4>(provided by a Microsoft Partner)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/terraform.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/terraform.png" height="40" width="40" /></div>
 
 <p>
 <br>
@@ -49,7 +49,7 @@ Click-to-deploy Terraform templates for the automated deployment of small scale 
 <br>
 <h4>(provided by a Microsoft Partner)</h4>
 </div>
-<div class="bottombox"><img src="https://raw.githubusercontent.com/Azure/MediaEntertainment/gh-pages/_site/assets/img/terraform.png" height="40" width="40" /></div>
+<div class="bottombox"><img src="{{ site.github.url }}/assets/img/terraform.png" height="40" width="40" /></div>
 
 <p>
 <br>
