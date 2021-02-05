@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="contentnav-wrapper">
+    <ul class="contentnavmenu">
+        {% for post in site.posts %}
+            <li class="{% if post.url == page.url %}contentnav-active{% endif %}"><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+
+        <!-- <li>
+            <a href="{{ site.github.url }}{% post_url 2020-08-06-enablement %}">
+                Core Enablement
+            </a>
+        </li>
+        <li>
+            <a href="{{ site.github.url }}{% post_url 2020-08-01-content-ingest%}">
+                Content Ingest
+            </a>
+        </li>
+        <li>
+            <a href="{{ site.github.url }}{% post_url 2020-08-04-supply-chain %}">
+                Media Supply Chain
+            </a>
+        </li>
+        <li>
+            <a href="{{ site.github.url }}{% post_url 2020-08-02-content-production %}">
+                Content Production
+            </a>
+        </li>
+        <li>
+            <a href="{{ site.github.url }}{% post_url 2020-08-03-video-editing %}">
+                Video Editing
+            </a>
+        </li>
+        <li>
+            <a href="{{ site.github.url }}{% post_url 2020-08-05-distribution %}">
+                Distribution
+            </a>
+        </li> -->
+    </ul>
+</div>
+<div class="content-wrapper">
+    {{ content }}
+</div>
