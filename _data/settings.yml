@@ -7,8 +7,6 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Highlights', folder: 'pages', file: 'highlights.html'}
-- {name: 'Partners', folder: 'pages', file: 'partners.html'}
 - {name: 'Solutions', folder: 'pages', file: 'solutions.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}

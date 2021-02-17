@@ -32,6 +32,7 @@
   width: $container-width;
   margin-left: auto;
   margin-right: auto;
+  background-color: #fff;
 }
 .container a {
   text-decoration: underline;
@@ -41,6 +42,7 @@
   margin: auto;
   display: block;
   width: $container-width - 20px;
+  position: relative;
 }
 .posts-wrapper h1 {
   margin: 20px 0px 5px;
@@ -56,5 +58,6 @@
     margin: auto;
     display: block;
     width: 95vw;
+    position: relative;
   }
 }

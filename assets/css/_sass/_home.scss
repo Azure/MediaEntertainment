@@ -28,29 +28,50 @@
   margin: 10px;
 }
 
-/*
-  Pagination
-*/
 
-.pagination {
-  text-align: center;
+.me-intro{
+    min-height: 720px;
+    width: $container-width;
+    background-color:#002050;
+    color:#fff;
+    position: absolute;
+    left: 0;
 }
-.pagination a {
-  text-decoration: none;
+
+.intro-bg{
+  background-image: url("/assets/img/M&E-homeimg.png");
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1080px;
+  opacity: .3;
 }
-.pagination-button {
-  color: #999;
-  border: 1px solid #e0e0e0;
-  padding: 15px 45px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  display: inline-block;
-  font-size: 16px;
-  font-weight: bold;
+
+.intro-msg{
+  margin-left: 200px;
+  padding-top: 30%;
+  width: 50%;
+  z-index: 1;
+  position: absolute;
 }
-.pagination-active {
-  color: black;
+.contentnav-wrapper{
+  z-index: 2;
 }
-.pagination-active:hover {
-  background-color: #e0e0e0;
+
+.contentnavmenu{
+  background-color: rgba(255,255,255,.1);
+}
+
+.contentnavmenu li:hover{
+  border-left: 4px solid #0062ad;
+  font-weight: 600;
+}
+.contentnavmenu a{
+  color: #fff;
+}
+
+.footer{
+  margin-top: 735px;
 }

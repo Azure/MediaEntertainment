@@ -17,6 +17,10 @@
   margin: 5px auto 25px;
   display: block;
   max-width: 600px;
+  height: 400px;
+}
+.home-section{
+  display: none;
 }
 @media (max-width: $container-width) {
   .page-content {
