@@ -9,7 +9,7 @@
 .post-date {
   display: block;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #fff;
   font-size:0.8rem;
 }
 .featured-image img {
@@ -56,9 +56,11 @@
 }
 .post-share {
   padding-bottom: 1rem;
+  float: right;
 }
 .sharing-icons a {
   padding-right: 10px;
+  color:#fff;
 }
 
 /*

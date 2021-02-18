@@ -4,7 +4,7 @@ title: Solutions
 ---
 {% assign sorted-solutions = site.solutions | sort: 'order' %}
 {% for solution in sorted-solutions %}
-  <a href="{{ site.github.url }}#{{ solution.categories }}">
+  <a href="{{ site.url | prepend:site.baseurl }}#{{ solution.categories }}">
     <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ solution.image }})"{% endif %}>
       <span>{{ solution.title }}</span>
       <span>Tags: {{ solution.tags }}</span>

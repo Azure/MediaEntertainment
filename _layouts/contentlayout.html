@@ -11,38 +11,36 @@ layout: default
     </ul>
 </div>
 <div class="content-wrapper">
-    <div class="home-section">
-        <!--<link rel="stylesheet" href="{{ site.github.url }}/assets/css/home.css">-->
-        <div class="me-intro">
-        <section class="intro-msg">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </section>
-        <div class="intro-bg"></div>
-        </div>
-    </div>
     <div class="page-content">
+        <div class="home-section">
+            <div class="content-banner">
+                <div class="home-banner">
+                    <h1>Solutions for Media and Entertainment</h1>
+                </div>
+            </div>
+            <div class="topic-box">
+                <section>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </section>
+            </div>
+        </div>
         {% for post in site.posts %}
             <article style="display: none;" id="{{post.categories}}">
-                <h2>{{ post.title }}</h2>
-                <div class="featured-image">
-                    <div class="topic-box">
-                        {{ post.content }}
-                    </div>
+                <div class="content-banner" style="{% if post.image %}background-image: url({{ site.github.url }}/assets/img/{{ post.image }});{% endif %}">
                     <div class="post-share">
                         <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
                         <div class="sharing-icons">
-                            <a href="https://twitter.com/intent/tweet?text={{ post.title }}&amp;url={{ site.github.url }}{{ page.url }}"
+                            <a href="https://twitter.com/intent/tweet?text={{ post.title }}&amp;url={{ site.github.url }}#{{ post.categories }}"
                                 target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ post.title }}"
+                            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}#{{ post.categories }}&amp;title={{ post.title }}"
                                 target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                            <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i
-                                    class="fa fa-google-plus" aria-hidden="true"></i></a>
                         </div>
                     </div>
-                    {% if post.image %}
-                        <img src="{{ site.github.url }}/assets/img/{{ post.image }}">
-                    {% endif %}
                 </div>
+ 
+                <div class="topic-box">
+                    {{ post.content }}
+                </div>               
                 <ul class="card-grid card-grid-2x3">
                     {% assign card_index = 0 %}
                     {% for solution in site.solutions %}
