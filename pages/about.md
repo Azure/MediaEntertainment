@@ -2,5 +2,6 @@
 layout: misc
 title: About
 ---
-
-The Microsoft Media & Entertainment site....
+<div>
+    The Microsoft Media & Entertainment site....
+</div>
