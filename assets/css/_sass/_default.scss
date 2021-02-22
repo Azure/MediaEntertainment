@@ -40,9 +40,11 @@
 .posts-wrapper {
   padding-top: $header-thickness+40px;
   margin: auto;
-  display: block;
+  display: grid;
   width: $container-width - 20px;
   position: relative;
+  grid-template-columns: 160px 1fr;
+  grid-auto-rows: 1fr;
 }
 .posts-wrapper h1 {
   margin: 20px 0px 5px;
@@ -54,10 +56,22 @@
     margin-right: auto;
   }
   .posts-wrapper {
-    padding-top: $header-thickness+40px;
+    padding-top: $header-thickness+110px;
     margin: auto;
     display: block;
     width: 95vw;
     position: relative;
   }
+}
+@media only screen and (min-width: 48em){
+  .posts-wrapper {
+    padding-top: $header-thickness+40px;
+    margin: auto;
+    display: grid;
+    width: $container-width - 20px;
+    position: relative;
+    grid-template-columns: 160px 1fr;
+    grid-auto-rows: 1fr;
+  }
+
 }

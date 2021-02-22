@@ -1,20 +1,8 @@
-.contentnav-wrapper{
-    position: fixed;
-    padding-top: 60px;
-}
-  
-.contentnavmenu{
-    list-style: none;
-    margin: 0 -3px 12px;
-    padding: 0;
-    display:block;
-    text-align: left;
-    font-family: "Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif;
-    font-weight: 400;
-    font-size: 16px;;
-}
+.content-wrapper{
+    padding-left: 25px;
+}  
 
-.contentnavmenu li{
+.contentnavmenu div{
     padding:12px;
 }
 
@@ -22,14 +10,24 @@
     text-decoration: none;
 }
 
-.contentnav-active{
-    border-left: 4px solid #0062ad;
-    font-weight: 600;
+@media only screen and (max-width: 47em){
+    .contentnav-active{
+        border-bottom: 4px solid #0062ad;
+        font-weight: 600;
+    }
+    .contentnavmenu{
+        display: grid;
+        margin: 0 -3px 12px;
+        text-align: left;
+        font-family: "Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-auto-rows: 50px;
+    }
 }
 
-.content-wrapper{
-    padding-left: 25px;
-}
 
   /*Post*/
 
@@ -39,8 +37,33 @@
         grid-template-rows: 1fr 1fr;
         grid-auto-rows: 1fr;
     }
+
+    .card-grid-2x4{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-auto-rows: 1fr;
+    }
+    
+    .card-grid-2x4 .card{
+        height: 150px;
+        width: 200px;
+    }
+
+    .contentnavmenu{
+        display: grid;
+        margin: 0 -3px 12px;
+        text-align: left;
+        font-family: "Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        grid-template-columns: 1fr;
+        grid-auto-rows: 50px;
+    }
+    .contentnav-active{
+        border-left: 4px solid #0062ad;
+        font-weight: 600;
+    }
 }
-.card-grid-2x3{
+.card-grid-2x3, .card-grid-2x4{
     -ms-grid-columns: 1 fr;
     -ms-grid-rows: auto 24px auto 24px auto 24px auto 24px auto 24px auto;
 }
@@ -85,16 +108,16 @@
     padding: 10px;
 }
 
-
+/* Home Content */
 
 .home-section {
     .topic-box{
         position: absolute;
-        top: 410px;
+        top: 510px;
         color: #fff;
     }
     .home-banner{
-        background-image: url(/assets/img/media-entertainment-emcee.png);
+        background-image: url(/assets/img/M&E-homeimg-2.png);
         height: 600px;
         background-repeat: no-repeat;
         background-size: contain;

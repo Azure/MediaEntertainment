@@ -27,7 +27,7 @@ $(function () {
   $('.navitem').on("click", function () {
     $('.home-section').hide();
     //Find the currently active menu item and hide the content.
-    var active = $('.contentnavmenu').find('li.contentnav-active');
+    var active = $('.contentnavmenu').find('.contentnav-active');
     var curActiveId = $(active).data('id');
     $(active).removeClass('contentnav-active')
     $(curActiveId).hide();

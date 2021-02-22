@@ -2,13 +2,12 @@
 layout: default
 ---
 
-<div class="contentnav-wrapper">
-    <ul class="contentnavmenu">
-        {% assign sorted-posts = site.posts | sort: 'order' %}
-        {% for post in sorted-posts  %}
-            <li class="navitem" data-id="#{{post.categories}}"><a href="#{{post.categories}}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
+
+<div class="contentnavmenu">
+    {% assign sorted-posts = site.posts | sort: 'order' %}
+    {% for post in sorted-posts  %}
+        <div class="navitem" data-id="#{{post.categories}}"><a href="#{{post.categories}}">{{ post.title }}</a></div>
+    {% endfor %}
 </div>
 <div class="content-wrapper">
     <div class="page-content">

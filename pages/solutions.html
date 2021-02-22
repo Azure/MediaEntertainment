@@ -2,12 +2,13 @@
 layout: page
 title: Solutions
 ---
-{% assign sorted-solutions = site.solutions | sort: 'order' %}
-{% for solution in sorted-solutions %}
-  <a href="{{ site.url | prepend:site.baseurl }}#{{ solution.categories }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ solution.image }})"{% endif %}>
-      <span>{{ solution.title }}</span>
-      <span>Tags: {{ solution.tags }}</span>
+<div class="card-grid card-grid-2x4">
+  {% assign sorted-solutions = site.solutions | sort: 'title' %}
+  {% for solution in sorted-solutions %}
+    <div class="card card-position">
+      <a href="{{ site.url | prepend:site.baseurl }}#{{ solution.categories }}">{{ solution.title }}</a>
+      <div><b>Solution Area: </b>{{ solution.categories }}</div>
+      <div><b>Tags: </b>{{ solution.tags | array_to_sentence_string: '' }}</div>
     </div>
-  </a>
-{% endfor %}
+  {% endfor %}
+</div>
