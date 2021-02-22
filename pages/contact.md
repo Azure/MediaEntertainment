@@ -2,14 +2,14 @@
 layout: misc
 title: Contact
 ---
+<div>
+    Submit a request to have your content added to the site here: <br>
+    [Content Request](https://aka.ms/gitmerequest)
 
-Submit a request to have your content added to the site here: <br>
-[Content Request](https://aka.ms/gitmerequest)
+    <hr>
 
-<hr>
-
-For other inquiries contact the team at: <br>
- [MAIL](mailto:gitme@microsoft.com).
-
+    For other inquiries contact the team at: <br>
+    [MAIL](mailto:gitme@microsoft.com).
+</div>
 
 
