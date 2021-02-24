@@ -4,6 +4,7 @@
 
 .contentnavmenu div{
     padding:12px;
+    text-shadow: 1px 2px 3px lightgray
 }
 
 .contentnavmenu a{
@@ -98,6 +99,7 @@
     background-size: cover;
     background-color: #1a070b;
     height: 150px;
+    text-shadow: 1px 2px 3px black;
 }
 
 .content-banner h1{
@@ -115,6 +117,7 @@
         position: absolute;
         top: 510px;
         color: #fff;
+        text-shadow: 1px 2px 3px black
     }
     .home-banner{
         background-image: url(/assets/img/M&E-homeimg-2.png);
