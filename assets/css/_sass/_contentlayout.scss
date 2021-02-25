@@ -115,23 +115,25 @@
 .home-section {
     .topic-box{
         position: absolute;
-        top: 510px;
+        top: 200px;
         color: #fff;
         text-shadow: 1px 2px 3px black
     }
     .home-banner{
         background-image: url(/assets/img/M&E-homeimg-2.png);
-        height: 600px;
+        height: 500px;
         background-repeat: no-repeat;
         background-size: contain;
+        background-position-y: center;
         border-radius: 6px;
+
     
     }
     .content-banner{
         color:#fff;
         background-color: #1a070b;
         border-radius: 6px;
-        height: 600px;
+        height: 500px;
     }
 }
 

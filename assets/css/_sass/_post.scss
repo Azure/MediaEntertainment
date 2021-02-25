@@ -1,3 +1,11 @@
+.page-wrapper{
+  margin: auto;
+  display: grid;
+  width: 1080px;
+  position: relative;
+  grid-template-columns: 1fr;
+}
+
 .page-content {
   width: 600px;
   display: block;
