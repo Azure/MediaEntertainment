@@ -10,6 +10,7 @@ $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
+$youtube-color: #E62117;
 
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
@@ -75,4 +76,9 @@ $rss-color: #ff6600;
 .fa-rss-square {
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
+}
+
+.fa-youtube{
+  padding: 5px;
+  @include social-media-icon($youtube-color, $icon-transition-time);
 }

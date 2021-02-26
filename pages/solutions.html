@@ -2,10 +2,14 @@
 layout: page
 title: Solutions
 ---
-{% for post in site.categories.resources %}
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
+<div class="card-grid card-grid-2x4">
+  {% assign sorted-solutions = site.solutions | sort: 'title' %}
+  {% for solution in sorted-solutions %}
+    <div class="card card-position">
+      <img class="card-icon" src="{{ site.github.url }}/assets/img/{{ solution.image }}.png" height="40" width="40" />
+      <a href="{{ solution.solution_url }}">{{ solution.title }}</a>
+      <div><b>Solution Area: </b><a href="{{ site.url | prepend:site.baseurl }}#{{ solution.categories }}">{{ solution.categories }}</a></div>
+      <div><b>Tags: </b>{{ solution.tags | array_to_sentence_string: '' }}</div>
     </div>
-  </a>
-{% endfor %}
+  {% endfor %}
+</div>
