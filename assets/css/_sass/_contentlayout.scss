@@ -120,7 +120,7 @@
         text-shadow: 1px 2px 3px black
     }
     .home-banner{
-        background-image: url($home-background + "/assets/img/M&E-homeimg-2.png");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url($home-background + "/assets/img/M&E-homeimg-2.png");
         height: 500px;
         background-repeat: no-repeat;
         background-size: contain;
