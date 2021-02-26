@@ -22,4 +22,6 @@ $phone-width: 480px;
 
 $header-thickness: 56px;
 
+$home-background: "{{ site.github.url }}";
+
 @import "_sass/-sections-dir";
