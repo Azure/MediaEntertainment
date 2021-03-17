@@ -110,6 +110,19 @@
     padding: 10px;
 }
 
+.solution-description{
+    background-color:rgb(245, 245, 245);
+    border-radius: 6px;
+    margin-bottom: 50px;
+    padding: 7px;
+    display: none;
+    text-align: center;
+}
+
+.solution-link{
+    margin: 5px;
+}
+
 /* Home Content */
 
 .home-section {
@@ -117,7 +130,8 @@
         position: absolute;
         top: 200px;
         color: #fff;
-        text-shadow: 1px 2px 3px black
+        text-shadow: 1px 2px 3px black;
+        text-indent: 1.5em;
     }
     .home-banner{
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url($home-background + "/assets/img/M&E-homeimg-2.png");

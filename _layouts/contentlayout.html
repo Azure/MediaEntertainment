@@ -42,7 +42,8 @@ layout: default
  
                 <div class="topic-box">
                     {{ post.content }}
-                </div>               
+                </div>
+                <div class="solution-description"></div>               
                 <ul class="card-grid card-grid-2x3">
                     {% assign card_index = 0 %}
                     {% for solution in site.solutions %}
@@ -52,7 +53,8 @@ layout: default
                                 <img class="card-icon" src="{{ site.github.url }}/assets/img/{{ solution.image }}.png" height="40" width="40" />
                                 <h3 class="card-title">{{ solution.title }}</h3>
                                 <div id="card-{{ solution.categories }}-{{ card_index }}" class="hover-info">
-                                    <i>{{ solution.description }}</i>
+                                    <p><b>{{ solution.title }}</b></p>
+                                    <p><i>{{ solution.description }}</i></p>
                                     <br>
                                     <a class="solution-link ui-button ui-corner-all" href="{{ solution.solution_url }}" target="_blank">Explore Solution</a>
                                     <br>

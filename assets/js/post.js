@@ -1,26 +1,13 @@
 $(function () {
-  // Model for cards
-  $('.hover-info').dialog({
-    autoOpen: false,
-    model: true,
-    show: {
-      effect: "fade",
-      duration: 100
-    },
-    hide: {
-      effect: "fade",
-      duration: 100
-    },
-    buttons: {
-      Ok: function () {
-        $(this).dialog("close");
-      }
-    }
-  });
-
   $('.card').on("click", function () {
     var id = $(this).data('id');
-    $(id).dialog("open");
+    $('.solution-description').html($(id).html()).show();
+    //$(id).dialog("open");
+  });
+
+  $('.navitem a').click(function(event) {
+    // This will prevent the default action of the anchor
+    event.preventDefault();
   });
 
   // Nav Menu 
@@ -33,6 +20,7 @@ $(function () {
     $(curActiveId).hide();
     // Show the content for the clicked item.
     var id = $(this).data('id');
+    $('.solution-description').hide();
     $(id).show();
     $(this).addClass('contentnav-active')
   });
@@ -41,6 +29,7 @@ $(function () {
   var parts = location.href.split("#");
   if (parts.length > 1) {
     var trgt = parts[1];
+    console.log("im here");
     $('.navitem[data-id="#' + trgt + '"').click();
   }
   else{
