@@ -17,7 +17,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Azure Media & Entertainment Solutions"
+title:		           "Media & Entertainment Solutions"
 description:	       "Solutions for Media Workloads"
 author:              "Microsoft"
 

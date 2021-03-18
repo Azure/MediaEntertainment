@@ -10,7 +10,7 @@ layout: default
     {% endfor %}
 </div>
 <div class="content-wrapper">
-    <div class="page-content">
+    <div class="page-content solutions-layout">
         <div class="home-section">
             <div class="content-banner">
                 <div class="home-banner">
@@ -43,16 +43,16 @@ layout: default
                 <div class="topic-box">
                     {{ post.content }}
                 </div>
-                <div class="solution-description"></div>               
+                <div id="desc-{{post.categories}}" class="solution-description-box"></div>               
                 <ul class="card-grid card-grid-2x3">
                     {% assign card_index = 0 %}
                     {% for solution in site.solutions %}
                         {% if solution.categories == post.categories %}
                             {% assign card_index = card_index | plus:1 %}
-                            <li class="card card-position" data-id="#card-{{ solution.categories }}-{{ card_index }}">
+                            <li class="card card-position" data-id="#card-{{ solution.categories }}-{{ card_index }}" data-desc="#desc-{{post.categories}}">
                                 <img class="card-icon" src="{{ site.github.url }}/assets/img/{{ solution.image }}.png" height="40" width="40" />
                                 <h3 class="card-title">{{ solution.title }}</h3>
-                                <div id="card-{{ solution.categories }}-{{ card_index }}" class="hover-info">
+                                <div id="card-{{ solution.categories }}-{{ card_index }}" class="solution-description">
                                     <p><b>{{ solution.title }}</b></p>
                                     <p><i>{{ solution.description }}</i></p>
                                     <br>
